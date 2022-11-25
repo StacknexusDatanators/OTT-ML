@@ -1,0 +1,1001 @@
+profile_ID,DOB,Contact_type,Gender,Pack_ID,Start_Date,Status,Upgradable,Validity_End,Country,State,avg_dur,num_devs,freq_used_dev,Subscription Type,Billing Type,Customer Longevity
+rsanchez,6/10/2005,Email,Female,432281,10/28/2021,INACTIVE,YES,12/5/2022,India,Goa,1512.2777777777778,18,Android Phone,12,Paytm,4
+karina10,1/12/2005,Email,Female,432300,2/10/2021,INACTIVE,NO,11/22/2022,India,Goa,1329.5,8,iPad,3,NetBanking,2
+sethconrad,10/30/1992,Email,Male,432410,10/30/2022,ACTIVE,YES,11/10/2022,India,Goa,1478.1666666666667,18,PC/Laptop,6,NetBanking,3
+ewilson,8/14/2015,Email,Female,432496,1/14/2022,ACTIVE,NO,12/27/2022,India,Goa,1118.1333333333334,15,PC/Laptop,12,Paytm,4
+evanvelasquez,5/25/1992,Email,Female,432553,1/21/2022,INACTIVE,YES,11/9/2022,India,Goa,1557.4285714285713,21,FireTV,12,Paytm,4
+juliagilmore,4/27/1993,Email,Female,432667,4/15/2022,INACTIVE,YES,11/15/2022,India,Goa,1982.3333333333333,18,FireTV,12,Paytm,4
+wayne58,12/12/2021,Email,Female,432675,11/3/2021,ACTIVE,YES,11/26/2022,India,Goa,1406.8235294117646,17,Android Phone,12,Paytm,4
+nlee,5/18/1993,Email,Female,432696,7/12/2022,INACTIVE,YES,12/22/2022,India,Goa,983.78125,32,PC/Laptop,3,NetBanking,2
+vbrennan,6/23/2002,Email,Female,432732,8/17/2022,ACTIVE,YES,11/8/2022,India,Goa,1239.4705882352941,17,Android Phone,12,Paytm,4
+catherineryan,12/25/2021,Email,Female,432987,3/7/2021,INACTIVE,NO,12/25/2022,India,Goa,1438.65,20,Android Phone,3,NetBanking,2
+andrewgentry,1/19/1989,Email,Male,433027,3/1/2022,INACTIVE,NO,12/25/2022,India,Goa,1162.44,25,FireTV,1,Paytm,1
+xbrooks,12/16/2021,Email,Male,433035,5/8/2021,ACTIVE,NO,12/11/2022,India,Goa,1178.2777777777778,18,Android Phone,12,Paytm,4
+smay,1/30/1999,Email,Female,432377,2/7/2021,INACTIVE,NO,11/30/2022,India,Assam,1070.9166666666667,12,PC/Laptop,1,Paytm,1
+gregorycassandra,5/30/1992,Email,Male,432597,11/5/2022,ACTIVE,NO,11/13/2022,India,Assam,1596.2068965517242,29,FireTV,12,Paytm,4
+robin12,10/25/1992,Email,Female,432806,12/10/2021,ACTIVE,NO,12/12/2022,India,Assam,607.9,20,PC/Laptop,12,Paytm,4
+brandisanders,2/3/1998,Email,Male,432843,5/16/2022,ACTIVE,YES,11/18/2022,India,Assam,693.5,8,FireTV,3,NetBanking,2
+brownjoseph,6/4/1992,Email,Female,432852,7/16/2022,INACTIVE,YES,11/13/2022,India,Assam,1324.2727272727273,22,Android TV,12,Paytm,4
+karensmith,8/24/1992,Email,Genderfluid,432911,9/13/2022,ACTIVE,YES,11/10/2022,India,Assam,1485.5714285714287,14,PC/Laptop,6,NetBanking,3
+laurieclark,10/19/2006,Email,Female,432924,10/2/2022,ACTIVE,YES,11/27/2022,India,Assam,1921.608695652174,23,FireTV,3,NetBanking,2
+webbkaren,7/3/2006,Email,Bigender,432942,1/6/2021,ACTIVE,YES,12/27/2022,India,Assam,727.4615384615385,13,PC/Laptop,3,NetBanking,2
+brownheather,12/17/2021,Email,Female,433008,8/14/2021,INACTIVE,NO,12/9/2022,India,Assam,824.5714285714286,7,PC/Laptop,12,Paytm,4
+carterroger,11/9/2021,Email,Male,433030,2/25/2021,INACTIVE,YES,11/27/2022,India,Assam,1621.5,18,PC/Laptop,6,NetBanking,3
+richard36,11/27/2021,Email,Polygender,432181,11/6/2021,INACTIVE,NO,12/2/2022,India,Bihar,1066.4583333333333,24,PC/Laptop,6,NetBanking,3
+aguilarkim,10/12/2005,Email,Female,432293,7/16/2021,ACTIVE,NO,12/22/2022,India,Bihar,1269.611111111111,18,FireTV,12,Paytm,4
+brewerpreston,12/17/2021,Email,Female,432650,3/24/2021,INACTIVE,YES,12/14/2022,India,Bihar,1243.2857142857142,7,FireTV,1,Paytm,1
+heathertorres,10/24/1992,Email,Female,432814,2/7/2021,ACTIVE,NO,11/18/2022,India,Bihar,1896.25,12,PC/Laptop,3,NetBanking,2
+peter84,6/2/1998,Email,Male,432819,1/16/2021,INACTIVE,YES,11/20/2022,India,Bihar,1207.1666666666667,18,Android TV,12,Paytm,4
+cfleming,11/9/2021,Email,Female,432908,11/7/2022,ACTIVE,YES,11/21/2022,India,Bihar,1246.05,20,FireTV,6,NetBanking,3
+maxwellthomas,7/7/1993,Email,Male,433121,3/27/2022,INACTIVE,YES,11/17/2022,India,Bihar,1461.55,20,PC/Laptop,3,NetBanking,2
+jonhubbard,11/5/1986,Email,Female,432187,6/7/2021,INACTIVE,NO,12/8/2022,India,Kerala,1260.5454545454545,22,PC/Laptop,12,Paytm,4
+edwardsandrew,1/21/2005,Email,Female,432304,10/26/2021,INACTIVE,YES,11/14/2022,India,Kerala,980.4444444444445,18,FireTV,6,NetBanking,3
+hendersonandrea,3/29/1999,Email,Male,432403,6/4/2022,ACTIVE,NO,11/13/2022,India,Kerala,1279.047619047619,21,PC/Laptop,3,NetBanking,2
+hahnderrick,5/9/1992,Email,Male,432442,11/24/2022,INACTIVE,YES,12/15/2022,India,Kerala,1035.0434782608695,23,FireTV,3,NetBanking,2
+vgomez,9/28/2010,Email,Female,432532,9/1/2022,INACTIVE,NO,12/13/2022,India,Kerala,1061.4444444444443,18,Apple TV,12,Paytm,4
+anthonycastaneda,3/13/1998,Email,Female,432821,4/7/2021,INACTIVE,NO,12/9/2022,India,Kerala,799.6666666666666,15,PC/Laptop,1,Paytm,1
+elliottrebekah,9/15/2006,Email,Male,432940,10/7/2022,ACTIVE,NO,11/22/2022,India,Kerala,683.5714285714286,14,FireTV,3,NetBanking,2
+gabriel83,11/26/2021,Email,Female,432949,4/26/2021,ACTIVE,NO,12/24/2022,India,Kerala,2247.1666666666665,18,FireTV,6,NetBanking,3
+kristysilva,9/15/2006,Email,Male,432962,5/16/2022,INACTIVE,YES,12/17/2022,India,Kerala,969.0,13,PC/Laptop,3,NetBanking,2
+bsanchez,3/30/1989,Email,Agender,433082,6/22/2022,ACTIVE,YES,11/25/2022,India,Kerala,1702.8823529411766,17,FireTV,3,NetBanking,2
+powellmichele,6/5/1992,Email,Genderfluid,433095,11/30/2021,ACTIVE,YES,11/22/2022,India,Kerala,1823.5555555555557,18,Android TV,6,NetBanking,3
+leeamber,1/23/2001,Email,Male,432239,4/30/2022,ACTIVE,YES,12/13/2022,India,Odisha,1253.5294117647059,17,Android TV,3,NetBanking,2
+karen40,7/19/1997,Email,Male,432557,2/4/2021,INACTIVE,YES,11/18/2022,India,Odisha,1968.7058823529412,17,FireTV,1,Paytm,1
+martinezmarie,7/22/1992,Email,Female,432869,8/29/2021,ACTIVE,YES,12/10/2022,India,Odisha,1809.75,16,FireTV,12,Paytm,4
+markbruce,9/5/1992,Email,Female,432871,9/16/2021,ACTIVE,NO,12/26/2022,India,Odisha,1346.3636363636363,22,FireTV,12,Paytm,4
+rogerswilliam,6/30/1992,Email,Female,432878,4/22/2022,ACTIVE,NO,11/28/2022,India,Odisha,656.7,10,PC/Laptop,12,Paytm,4
+xlewis,6/20/1992,Email,Male,432904,4/6/2022,INACTIVE,YES,12/3/2022,India,Odisha,1028.1333333333334,15,PC/Laptop,12,Paytm,4
+kathleenhenry,1/11/2006,Email,Male,432959,10/5/2021,ACTIVE,NO,11/23/2022,India,Odisha,1992.0555555555557,18,PC/Laptop,12,Paytm,4
+josephjohnson,10/17/1989,Email,Male,432992,6/16/2021,INACTIVE,NO,11/28/2022,India,Odisha,956.6,20,PC/Laptop,3,NetBanking,2
+kimberly77,7/19/1989,Email,Female,433053,9/22/2022,INACTIVE,YES,12/21/2022,India,Odisha,889.2727272727273,22,PC/Laptop,12,Paytm,4
+jessica41,9/15/1986,Email,Female,432180,2/8/2022,INACTIVE,YES,12/5/2022,India,Punjab,703.2,20,PC/Laptop,3,NetBanking,2
+xwilson,3/22/1986,Email,Female,432186,2/21/2021,ACTIVE,NO,12/4/2022,India,Punjab,981.5,16,FireTV,3,NetBanking,2
+connerrobert,4/29/2000,Email,Female,432209,7/13/2022,ACTIVE,NO,11/22/2022,India,Punjab,818.5263157894736,19,FireTV,3,NetBanking,2
+mbailey,6/5/2000,Email,Agender,432212,10/26/2022,INACTIVE,YES,11/8/2022,India,Punjab,2926.0,16,FireTV,3,NetBanking,2
+nparks,7/1/1989,Email,Female,433031,7/12/2021,ACTIVE,YES,12/25/2022,India,Punjab,589.125,24,FireTV,1,Paytm,1
+pford,1/21/1992,Email,Male,433100,12/31/2021,ACTIVE,NO,12/1/2022,India,Punjab,1211.3703703703704,27,PC/Laptop,12,Paytm,4
+kwilliams,6/8/1992,Email,Male,433104,6/8/2021,INACTIVE,NO,12/6/2022,India,Punjab,1302.6571428571428,35,Android TV,3,NetBanking,2
+robert59,7/1/1992,Email,Agender,432362,8/20/2021,INACTIVE,YES,12/11/2022,India,Sikkim,1508.8333333333333,24,Android Phone,1,Paytm,1
+wrightrobert,10/18/2015,Email,Non-binary,432493,4/13/2022,INACTIVE,NO,11/11/2022,India,Sikkim,567.9375,16,PC/Laptop,3,NetBanking,2
+heather44,4/4/1992,Email,Bigender,432621,8/21/2022,INACTIVE,NO,11/9/2022,India,Sikkim,1431.6190476190477,21,FireTV,3,NetBanking,2
+kimanne,2/26/1993,Email,Male,432664,10/16/2021,INACTIVE,NO,12/28/2022,India,Sikkim,1191.1666666666667,12,FireTV,12,Paytm,4
+jennifer81,3/10/1992,Email,Male,432847,3/24/2022,INACTIVE,YES,12/22/2022,India,Sikkim,1176.6842105263158,19,iPhone,1,Paytm,1
+droach,10/26/1992,Email,Male,432894,3/23/2022,ACTIVE,NO,11/18/2022,India,Sikkim,1852.2,15,PC/Laptop,12,Paytm,4
+jmays,10/17/2006,Email,Male,432955,10/20/2022,INACTIVE,YES,12/6/2022,India,Sikkim,1546.2,20,PC/Laptop,12,Paytm,4
+donna86,3/13/1989,Email,Female,433022,11/3/2021,INACTIVE,YES,11/11/2022,India,Sikkim,1105.4117647058824,17,FireTV,3,NetBanking,2
+dcalhoun,10/22/1986,Email,Male,432182,9/27/2022,ACTIVE,NO,12/14/2022,India,Gujarat,985.1176470588235,17,FireTV,12,Paytm,4
+scottkey,10/1/1986,Email,Female,432183,1/10/2022,INACTIVE,YES,12/16/2022,India,Gujarat,1523.3181818181818,22,FireTV,12,Paytm,4
+ewu,9/15/2015,Email,Bigender,432451,1/19/2021,ACTIVE,YES,12/1/2022,India,Gujarat,1787.3684210526317,19,FireTV,3,NetBanking,2
+cantumichelle,2/13/2002,Email,Female,432725,11/1/2022,ACTIVE,NO,12/6/2022,India,Gujarat,1341.1666666666667,24,FireTV,1,Paytm,1
+samantha51,10/11/1998,Email,Male,432815,10/20/2022,ACTIVE,NO,11/28/2022,India,Gujarat,1465.4,20,FireTV,12,Paytm,4
+kyleparks,8/3/1998,Email,Female,432816,5/22/2021,ACTIVE,YES,12/17/2022,India,Gujarat,880.4117647058823,17,FireTV,12,Paytm,4
+umiller,10/16/2006,Email,Male,432926,3/5/2021,INACTIVE,YES,12/20/2022,India,Gujarat,1013.4705882352941,17,PC/Laptop,3,NetBanking,2
+gordonoscar,3/22/2006,Email,Female,432930,6/14/2022,ACTIVE,NO,11/23/2022,India,Gujarat,1591.0555555555557,18,FireTV,3,NetBanking,2
+reginaballard,5/12/2006,Email,Polygender,432971,1/13/2021,INACTIVE,NO,12/9/2022,India,Gujarat,1173.2142857142858,14,FireTV,12,Paytm,4
+nicole73,7/23/1989,Email,Female,433021,1/31/2022,ACTIVE,YES,12/14/2022,India,Gujarat,879.0,17,PC/Laptop,1,Paytm,1
+alithomas,4/4/1989,Email,Male,433059,5/12/2021,ACTIVE,YES,11/14/2022,India,Gujarat,958.2631578947369,19,iPhone,12,Paytm,4
+jmeyer,1/30/1989,Email,Male,433074,5/24/2021,ACTIVE,NO,12/2/2022,India,Gujarat,795.7,20,PC/Laptop,12,Paytm,4
+jhorn,1/3/1992,Email,Female,432332,1/18/2022,INACTIVE,YES,12/4/2022,India,Haryana,1125.4444444444443,18,PC/Laptop,6,NetBanking,3
+brooksnicole,5/13/2015,Email,Female,432511,10/3/2022,ACTIVE,NO,11/15/2022,India,Haryana,1210.4736842105262,19,PC/Laptop,12,Paytm,4
+joycebaker,12/1/2021,Email,Female,432560,1/13/2021,INACTIVE,YES,11/21/2022,India,Haryana,1240.576923076923,26,FireTV,3,NetBanking,2
+jeffreywatson,8/1/1997,Email,Male,432580,5/5/2021,ACTIVE,YES,12/3/2022,India,Haryana,1348.9565217391305,22,FireTV,1,Paytm,1
+petersoncarolyn,6/8/1989,Email,Female,433037,9/15/2022,ACTIVE,YES,11/12/2022,India,Haryana,1417.095238095238,20,FireTV,1,Paytm,1
+alexis32,5/27/2010,Email,Male,432544,7/6/2021,INACTIVE,NO,11/24/2022,India,Manipur,1380.7142857142858,14,Android TV,6,NetBanking,3
+ashleyking,11/1/2002,Email,Female,432739,10/1/2022,ACTIVE,YES,11/21/2022,India,Manipur,809.3,20,PC/Laptop,12,Paytm,4
+umontes,3/19/2002,Email,Male,432749,6/27/2021,INACTIVE,YES,11/24/2022,India,Manipur,1036.1,20,PC/Laptop,12,Paytm,4
+zacharypatel,8/6/2002,Email,Male,432793,2/3/2022,ACTIVE,YES,11/13/2022,India,Manipur,1577.7894736842106,19,FireTV,12,Paytm,4
+julie59,7/12/1992,Email,Male,432853,5/12/2022,INACTIVE,YES,12/16/2022,India,Manipur,701.1304347826087,23,FireTV,3,NetBanking,2
+austinhuff,6/14/2006,Email,Female,432989,1/17/2022,ACTIVE,YES,11/23/2022,India,Manipur,1254.2941176470588,17,FireTV,1,Paytm,1
+pthompson,3/25/1989,Email,Male,433016,10/8/2022,ACTIVE,NO,12/28/2022,India,Manipur,1774.5185185185185,27,PC/Laptop,12,Paytm,4
+qhobbs,9/29/1999,Email,Male,432382,9/22/2021,ACTIVE,NO,11/28/2022,India,Mizoram,1164.4285714285713,14,Android TV,6,NetBanking,3
+latoyaburton,8/4/1999,Email,Female,432386,11/11/2022,ACTIVE,NO,12/20/2022,India,Mizoram,1279.5263157894738,19,Android TV,6,NetBanking,3
+hoganlindsay,6/16/1992,Email,Female,432447,6/12/2022,ACTIVE,YES,11/22/2022,India,Mizoram,1364.15,20,PC/Laptop,12,Paytm,4
+ryan73,5/13/2002,Email,Non-binary,432736,5/26/2021,INACTIVE,NO,11/21/2022,India,Mizoram,1133.28,25,PC/Laptop,6,NetBanking,3
+pattersonjohn,8/26/1992,Email,Female,432891,6/6/2021,INACTIVE,YES,11/11/2022,India,Mizoram,1538.0869565217392,23,FireTV,6,NetBanking,3
+zhale,3/27/1992,Email,Genderfluid,432334,12/2/2021,INACTIVE,YES,12/6/2022,India,Tripura,1246.8461538461538,13,PC/Laptop,12,Paytm,4
+gatesalbert,2/3/2010,Email,Female,432528,1/10/2022,INACTIVE,NO,11/17/2022,India,Tripura,1671.6666666666667,21,PC/Laptop,12,Paytm,4
+ebyrd,10/10/2010,Email,Male,432534,7/23/2022,INACTIVE,NO,12/25/2022,India,Tripura,804.5,18,PC/Laptop,12,Paytm,4
+hgarza,4/29/1991,Email,Male,432648,7/3/2022,INACTIVE,NO,11/17/2022,India,Tripura,1024.4615384615386,13,PC/Laptop,3,NetBanking,2
+lwalker,2/24/2002,Email,Female,432779,9/7/2021,INACTIVE,NO,12/7/2022,India,Tripura,1258.9473684210527,19,PC/Laptop,12,Paytm,4
+sarapowell,9/29/1992,Email,Female,432863,12/2/2021,ACTIVE,NO,12/24/2022,India,Tripura,1890.0,23,FireTV,12,Paytm,4
+chad09,10/23/1993,Email,Female,433151,8/26/2021,INACTIVE,NO,11/20/2022,India,Tripura,1323.75,16,PC/Laptop,12,Paytm,4
+matthewroberts,9/28/2015,Email,Genderqueer,432468,8/24/2022,INACTIVE,YES,11/23/2022,India,Nagaland,1306.5,18,PC/Laptop,12,Paytm,4
+brittany88,9/17/2015,Email,Female,432482,2/11/2022,ACTIVE,NO,11/11/2022,India,Nagaland,1114.65,20,FireTV,12,Paytm,4
+vburke,6/25/1993,Email,Agender,432683,5/10/2021,INACTIVE,YES,12/22/2022,India,Nagaland,2005.3333333333333,18,PC/Laptop,3,NetBanking,2
+bridgesfrank,9/20/2002,Email,Male,432795,9/3/2021,ACTIVE,NO,12/15/2022,India,Nagaland,1936.1666666666667,12,FireTV,6,NetBanking,3
+ysimmons,11/4/1998,Email,Male,432826,5/20/2021,ACTIVE,YES,12/22/2022,India,Nagaland,1809.0,20,FireTV,12,Paytm,4
+bcole,7/14/1992,Email,Male,432862,1/11/2022,INACTIVE,NO,12/5/2022,India,Nagaland,2005.1153846153845,26,FireTV,6,NetBanking,3
+jessicavalentine,6/14/1992,Email,Male,432877,2/12/2021,INACTIVE,NO,12/31/2022,India,Nagaland,1331.6,20,FireTV,12,Paytm,4
+parkdonna,4/26/2006,Email,Female,432982,5/14/2021,INACTIVE,NO,11/18/2022,India,Nagaland,982.5833333333334,12,FireTV,3,NetBanking,2
+deanna48,1/31/2006,Email,Male,432983,4/19/2022,INACTIVE,NO,12/22/2022,India,Nagaland,1416.5625,16,PC/Laptop,3,NetBanking,2
+alexandrasimmons,11/23/2021,Email,Male,433042,6/22/2021,INACTIVE,NO,11/13/2022,India,Nagaland,1067.6842105263158,19,PC/Laptop,3,NetBanking,2
+whiteeric,7/16/1989,Email,Female,433050,4/12/2022,ACTIVE,YES,11/11/2022,India,Nagaland,1954.2222222222222,18,PC/Laptop,3,NetBanking,2
+lauren39,3/16/2000,Email,Male,432199,10/13/2022,ACTIVE,YES,12/9/2022,India,Jharkhand,1339.375,16,PC/Laptop,12,Paytm,4
+hernandeztodd,7/15/2005,Email,Female,432307,7/31/2021,ACTIVE,NO,11/9/2022,India,Jharkhand,682.6842105263158,19,PC/Laptop,6,NetBanking,3
+ihernandez,4/19/1992,Email,Male,432333,9/5/2022,INACTIVE,YES,11/22/2022,India,Jharkhand,1242.3529411764705,16,FireTV,3,NetBanking,2
+thompsonrose,5/16/1999,Email,Genderfluid,432384,8/6/2021,ACTIVE,NO,11/19/2022,India,Jharkhand,1673.1666666666667,18,FireTV,1,Paytm,1
+patricia12,8/14/2015,Email,Male,432508,10/5/2022,INACTIVE,NO,11/13/2022,India,Jharkhand,1397.5416666666667,24,FireTV,1,Paytm,1
+kararoberts,8/23/2002,Email,Female,432784,11/7/2022,INACTIVE,NO,11/10/2022,India,Jharkhand,2024.65,20,iPad,6,NetBanking,3
+wagnerdanielle,10/22/2006,Email,Female,432963,12/6/2021,ACTIVE,YES,12/11/2022,India,Jharkhand,1376.2727272727273,11,PC/Laptop,6,NetBanking,3
+davidsonshannon,11/29/2021,Email,Male,432968,8/24/2022,INACTIVE,YES,12/10/2022,India,Jharkhand,1553.0555555555557,18,PC/Laptop,12,Paytm,4
+wrogers,3/30/1989,Email,Agender,433061,2/18/2022,ACTIVE,NO,12/5/2022,India,Jharkhand,1045.4375,16,PC/Laptop,6,NetBanking,3
+robinsoncameron,9/13/1993,Email,Male,433141,5/22/2021,INACTIVE,NO,12/14/2022,India,Jharkhand,1009.0555555555555,18,PC/Laptop,3,NetBanking,2
+athompson,6/20/2015,Email,Female,432481,2/27/2021,ACTIVE,YES,11/12/2022,India,Karnataka,991.2380952380952,21,Android TV,3,NetBanking,2
+christianstevens,9/20/1992,Email,Male,432625,3/9/2022,ACTIVE,NO,12/15/2022,India,Karnataka,1629.888888888889,18,FireTV,3,NetBanking,2
+dawn80,4/12/1993,Email,Female,432697,10/26/2022,ACTIVE,NO,12/20/2022,India,Karnataka,1453.6969696969697,33,Android Phone,12,Paytm,4
+masseymichele,3/10/1992,Email,Genderfluid,432901,2/21/2021,INACTIVE,NO,11/11/2022,India,Karnataka,1541.9375,16,PC/Laptop,6,NetBanking,3
+valeriebrown,12/17/2021,Email,Non-binary,432928,2/26/2022,INACTIVE,NO,12/29/2022,India,Karnataka,1622.608695652174,23,PC/Laptop,3,NetBanking,2
+michaelhicks,3/5/2006,Email,Female,432941,5/23/2021,ACTIVE,YES,12/31/2022,India,Karnataka,909.047619047619,21,FireTV,3,NetBanking,2
+christopher50,1/4/1989,Email,Male,433002,1/30/2022,ACTIVE,NO,11/14/2022,India,Karnataka,707.4285714285714,14,PC/Laptop,3,NetBanking,2
+markrice,11/9/2021,Email,Male,432236,10/31/2022,INACTIVE,NO,12/3/2022,India,Meghalaya,1810.6315789473683,19,Android Phone,3,NetBanking,2
+qhatfield,9/9/1992,Email,Female,432316,3/9/2021,ACTIVE,NO,11/12/2022,India,Meghalaya,1714.2272727272727,22,FireTV,3,NetBanking,2
+andreadunn,11/5/2005,Email,Female,432251,5/30/2021,INACTIVE,YES,11/21/2022,India,Rajasthan,1096.6,15,iPad,3,NetBanking,2
+fcarter,1/28/1999,Email,Male,432396,10/20/2021,INACTIVE,YES,12/11/2022,India,Rajasthan,1035.8095238095239,21,PC/Laptop,6,NetBanking,3
+wday,4/3/1992,Email,Female,432590,8/18/2021,ACTIVE,YES,12/9/2022,India,Rajasthan,985.5555555555555,18,iPhone,6,NetBanking,3
+zbrown,10/15/1989,Email,Male,432999,12/15/2021,INACTIVE,YES,11/26/2022,India,Rajasthan,873.3846153846154,26,Android Phone,12,Paytm,4
+benjaminfernandez,2/6/1989,Email,Female,433071,2/13/2021,INACTIVE,NO,11/14/2022,India,Rajasthan,1083.0833333333333,12,PC/Laptop,12,Paytm,4
+prattcourtney,1/7/1986,Email,Genderqueer,432179,2/19/2021,INACTIVE,NO,12/28/2022,India,Telangana,1162.1363636363637,22,PC/Laptop,3,NetBanking,2
+houstonjuan,1/31/2001,Email,Female,432225,9/22/2021,ACTIVE,YES,11/24/2022,India,Telangana,2007.8333333333333,12,PC/Laptop,3,NetBanking,2
+vsolis,4/27/2005,Email,Female,432250,2/1/2021,INACTIVE,YES,11/14/2022,India,Telangana,1348.3846153846155,13,PC/Laptop,6,NetBanking,3
+cjames,3/21/1992,Email,Female,432335,3/25/2021,ACTIVE,NO,11/25/2022,India,Telangana,1513.2631578947369,19,PC/Laptop,3,NetBanking,2
+perkinsmeagan,8/16/2010,Email,Female,432529,10/6/2021,INACTIVE,YES,11/21/2022,India,Telangana,1502.2105263157894,19,Android TV,3,NetBanking,2
+nealgregory,2/19/1992,Email,Male,432596,1/17/2022,INACTIVE,YES,12/2/2022,India,Telangana,1292.5,24,Android Phone,3,NetBanking,2
+frederickgates,2/5/1992,Email,Female,432598,4/29/2022,INACTIVE,NO,11/27/2022,India,Telangana,1336.75,16,PC/Laptop,1,Paytm,1
+jonathanharper,3/26/1992,Email,Female,432659,1/4/2021,ACTIVE,NO,11/30/2022,India,Telangana,1130.3333333333333,15,PC/Laptop,3,NetBanking,2
+steven50,6/4/1992,Email,Male,432702,5/14/2021,ACTIVE,NO,11/16/2022,India,Telangana,1434.4347826086957,23,PC/Laptop,3,NetBanking,2
+tara02,5/6/2002,Email,Agender,432731,2/20/2022,ACTIVE,YES,11/20/2022,India,Telangana,910.1785714285714,28,FireTV,12,Paytm,4
+hmckee,11/25/2021,Email,Male,432833,2/18/2022,INACTIVE,NO,11/21/2022,India,Telangana,1767.3333333333333,21,FireTV,3,NetBanking,2
+nbailey,11/10/2021,Email,Male,432969,5/7/2022,INACTIVE,NO,12/3/2022,India,Telangana,1797.05,20,iPad,12,Paytm,4
+ileon,5/14/1989,Email,Male,433080,3/31/2022,ACTIVE,YES,12/26/2022,India,Telangana,1446.8333333333333,18,PC/Laptop,6,NetBanking,3
+iwhite,12/9/2021,Email,Female,433131,8/10/2021,ACTIVE,NO,11/15/2022,India,Telangana,799.2941176470588,17,PC/Laptop,3,NetBanking,2
+ubruce,10/25/2005,Email,Female,432292,9/11/2021,ACTIVE,NO,12/23/2022,India,Tamil Nadu,1413.6842105263158,19,PC/Laptop,12,Paytm,4
+vmartinez,4/27/1992,Email,Female,432341,10/4/2021,ACTIVE,NO,12/15/2022,India,Tamil Nadu,908.125,32,FireTV,12,Paytm,4
+melanieclark,9/2/2015,Email,Male,432471,11/19/2021,INACTIVE,YES,11/21/2022,India,Tamil Nadu,1075.111111111111,18,FireTV,12,Paytm,4
+franklinjustin,11/6/2015,Email,Male,432513,9/20/2021,INACTIVE,YES,12/8/2022,India,Tamil Nadu,1192.4545454545455,21,FireTV,1,Paytm,1
+shawn06,7/4/1997,Email,Male,432566,6/13/2021,INACTIVE,NO,11/25/2022,India,Tamil Nadu,720.5909090909091,22,FireTV,12,Paytm,4
+robert73,2/22/1991,Email,Male,432636,8/19/2022,ACTIVE,YES,12/20/2022,India,Tamil Nadu,1043.090909090909,11,FireTV,12,Paytm,4
+greenluke,7/1/1993,Email,Female,432665,10/11/2021,INACTIVE,NO,12/20/2022,India,Tamil Nadu,1410.2272727272727,22,PC/Laptop,12,Paytm,4
+ubrown,4/10/2002,Email,Female,432717,11/26/2021,ACTIVE,YES,11/13/2022,India,Tamil Nadu,1295.0555555555557,18,PC/Laptop,12,Paytm,4
+anthony27,10/8/2002,Email,Male,432762,2/25/2021,ACTIVE,NO,12/25/2022,India,Tamil Nadu,1284.8461538461538,13,Android Phone,1,Paytm,1
+clarkmarvin,4/22/2002,Email,Female,432767,7/4/2022,INACTIVE,NO,12/16/2022,India,Tamil Nadu,992.8333333333334,18,PC/Laptop,6,NetBanking,3
+barrontammy,8/30/2006,Email,Agender,432935,5/28/2022,ACTIVE,YES,11/28/2022,India,Tamil Nadu,1097.7083333333333,24,FireTV,3,NetBanking,2
+nlawrence,3/22/1992,Email,Female,433101,11/27/2021,ACTIVE,NO,11/23/2022,India,Tamil Nadu,1284.2631578947369,19,PC/Laptop,12,Paytm,4
+meganrandall,12/5/2021,Email,Female,433110,8/12/2021,INACTIVE,YES,12/10/2022,India,Tamil Nadu,853.3333333333334,12,PC/Laptop,1,Paytm,1
+chloemartin,9/24/2001,Email,Non-binary,432218,1/22/2021,INACTIVE,NO,12/31/2022,India,Maharashtra,1324.857142857143,21,FireTV,6,NetBanking,3
+nwhite,5/27/2001,Email,Bigender,432227,11/12/2022,INACTIVE,NO,11/18/2022,India,Maharashtra,737.0,13,PC/Laptop,12,Paytm,4
+scottsusan,2/6/2005,Email,Female,432257,4/27/2021,ACTIVE,YES,11/20/2022,India,Maharashtra,1548.2666666666667,15,PC/Laptop,12,Paytm,4
+tuckersarah,9/25/1994,Email,Male,432425,11/17/2022,INACTIVE,YES,11/22/2022,India,Maharashtra,2049.6923076923076,13,PC/Laptop,3,NetBanking,2
+charlessanchez,6/3/2015,Email,Female,432470,1/15/2022,INACTIVE,NO,11/10/2022,India,Maharashtra,1869.1,10,Android TV,3,NetBanking,2
+monique74,5/5/2015,Email,Genderqueer,432492,1/23/2022,ACTIVE,NO,11/26/2022,India,Maharashtra,1457.65,20,FireTV,1,Paytm,1
+jessica53,9/15/2015,Email,Female,432507,12/1/2021,INACTIVE,NO,12/31/2022,India,Maharashtra,1167.0,16,PC/Laptop,12,Paytm,4
+rasmussenangela,7/7/2010,Email,Male,432540,5/7/2022,ACTIVE,NO,12/27/2022,India,Maharashtra,1621.2173913043478,23,PC/Laptop,12,Paytm,4
+christopherstevens,1/4/1993,Email,Female,432673,6/2/2022,INACTIVE,YES,11/14/2022,India,Maharashtra,1665.7222222222222,18,FireTV,6,NetBanking,3
+kimberly91,12/13/2021,Email,Female,432695,8/21/2021,INACTIVE,YES,11/28/2022,India,Maharashtra,1099.7727272727273,22,FireTV,1,Paytm,1
+jeremybell,9/2/2002,Email,Male,432768,6/29/2021,ACTIVE,YES,11/22/2022,India,Maharashtra,1430.0,9,Android Phone,3,NetBanking,2
+paul35,7/28/2002,Email,Male,432800,2/15/2022,ACTIVE,YES,12/10/2022,India,Maharashtra,832.2777777777778,18,FireTV,3,NetBanking,2
+sloantracy,6/7/1989,Email,Male,433076,3/20/2021,ACTIVE,NO,12/24/2022,India,Maharashtra,1071.3076923076924,13,FireTV,1,Paytm,1
+brenda93,2/4/1992,Email,Male,433091,3/24/2022,ACTIVE,YES,11/13/2022,India,Maharashtra,1560.6153846153845,13,PC/Laptop,1,Paytm,1
+courtneymartin,11/7/1993,Email,Female,433107,10/8/2021,ACTIVE,NO,11/21/2022,India,Maharashtra,1259.8181818181818,22,FireTV,1,Paytm,1
+connorwright,1/29/2015,Email,Female,432469,7/22/2021,ACTIVE,YES,12/7/2022,India,Uttarakhand,837.875,24,FireTV,12,Paytm,4
+longcody,10/27/2015,Email,Female,432495,7/26/2021,ACTIVE,NO,11/18/2022,India,Uttarakhand,1250.5238095238096,21,FireTV,3,NetBanking,2
+audreymcintosh,2/24/1991,Email,Male,432637,1/25/2021,ACTIVE,NO,12/20/2022,India,Uttarakhand,1076.32,25,PC/Laptop,12,Paytm,4
+kevinphillips,1/11/1992,Email,Female,432854,4/16/2021,ACTIVE,NO,11/15/2022,India,Uttarakhand,1209.421052631579,19,PC/Laptop,1,Paytm,1
+kmorgan,9/19/1992,Email,Female,432892,2/28/2021,ACTIVE,YES,12/10/2022,India,Uttarakhand,1345.9444444444443,18,FireTV,3,NetBanking,2
+sharplisa,2/1/1992,Email,Female,432914,12/24/2021,INACTIVE,YES,11/9/2022,India,Uttarakhand,1327.0588235294117,17,iPhone,3,NetBanking,2
+brownhannah,9/29/2006,Email,Male,432925,7/18/2022,ACTIVE,NO,12/7/2022,India,Uttarakhand,1557.4166666666667,24,PC/Laptop,12,Paytm,4
+hgibson,11/29/2021,Email,Female,433026,6/18/2022,INACTIVE,NO,12/21/2022,India,Uttarakhand,940.9444444444445,18,FireTV,12,Paytm,4
+rmclean,1/4/2005,Email,Male,432259,9/6/2021,INACTIVE,NO,11/9/2022,India,West Bengal,1030.7272727272727,22,FireTV,3,NetBanking,2
+alicia36,4/23/2005,Email,Female,432271,8/7/2021,INACTIVE,YES,11/18/2022,India,West Bengal,1096.851851851852,27,PC/Laptop,12,Paytm,4
+julianhenderson,11/6/1994,Email,Female,432430,6/13/2022,ACTIVE,NO,12/24/2022,India,West Bengal,1299.7058823529412,17,FireTV,6,NetBanking,3
+charlespayne,8/1/1992,Email,Male,432592,11/30/2021,ACTIVE,YES,12/20/2022,India,West Bengal,881.0769230769231,13,FireTV,1,Paytm,1
+qdouglas,9/27/1992,Email,Genderfluid,432622,5/9/2022,ACTIVE,NO,12/7/2022,India,West Bengal,1923.5882352941176,17,PC/Laptop,12,Paytm,4
+petersontheresa,4/4/1991,Email,Male,432642,7/23/2022,ACTIVE,YES,12/17/2022,India,West Bengal,1218.4736842105262,19,Android TV,6,NetBanking,3
+zhanson,11/30/2021,Email,Male,432689,5/31/2022,INACTIVE,YES,11/11/2022,India,West Bengal,961.6842105263158,19,PC/Laptop,12,Paytm,4
+brownchristina,9/27/2002,Email,Female,432752,8/1/2022,ACTIVE,YES,12/24/2022,India,West Bengal,1611.4782608695652,23,Android Phone,3,NetBanking,2
+tammy07,1/2/1992,Email,Female,432849,10/31/2021,INACTIVE,NO,12/1/2022,India,West Bengal,1514.5652173913043,23,PC/Laptop,3,NetBanking,2
+dgross,5/7/2001,Email,Female,432222,10/1/2022,ACTIVE,NO,11/25/2022,India,Chhattisgarh,1203.05,20,Apple TV,12,Paytm,4
+millerscott,12/4/2021,Email,Male,432313,1/15/2022,INACTIVE,YES,11/15/2022,India,Chhattisgarh,1314.2,20,PC/Laptop,6,NetBanking,3
+wattsricardo,5/2/2015,Email,Female,432463,2/6/2022,INACTIVE,NO,12/7/2022,India,Chhattisgarh,1004.0384615384615,26,PC/Laptop,1,Paytm,1
+mblanchard,3/7/1993,Email,Male,432691,1/21/2021,ACTIVE,NO,11/21/2022,India,Chhattisgarh,1101.388888888889,18,FireTV,12,Paytm,4
+jefferywatson,10/31/1992,Email,Female,432701,10/26/2021,ACTIVE,NO,12/25/2022,India,Chhattisgarh,2006.421052631579,19,PC/Laptop,12,Paytm,4
+ugriffin,5/5/1992,Email,Male,432860,5/1/2022,INACTIVE,NO,12/25/2022,India,Chhattisgarh,1152.5,12,Android TV,6,NetBanking,3
+martinezthomas,9/24/1989,Email,Male,433041,11/10/2022,ACTIVE,YES,11/19/2022,India,Chhattisgarh,1596.611111111111,18,FireTV,3,NetBanking,2
+johnwheeler,1/30/1992,Email,Male,433089,2/9/2022,INACTIVE,YES,12/24/2022,India,Chhattisgarh,1567.0,19,FireTV,6,NetBanking,3
+kimberlyclarke,6/5/2001,Email,Female,432215,12/16/2021,INACTIVE,YES,11/19/2022,India,Uttar Pradesh,1133.6842105263158,19,PC/Laptop,12,Paytm,4
+michaeljones,9/14/1992,Email,Male,432328,5/5/2022,ACTIVE,YES,12/29/2022,India,Uttar Pradesh,1175.4615384615386,13,FireTV,12,Paytm,4
+uthomas,4/1/1997,Email,Female,432558,9/10/2021,INACTIVE,NO,12/21/2022,India,Uttar Pradesh,1394.3529411764705,17,FireTV,1,Paytm,1
+michaelcox,8/16/1997,Email,Female,432571,10/25/2021,ACTIVE,NO,12/23/2022,India,Uttar Pradesh,980.25,20,FireTV,12,Paytm,4
+clarkmatthew,8/16/1992,Email,Female,432600,4/18/2022,ACTIVE,YES,12/6/2022,India,Uttar Pradesh,1063.7727272727273,21,FireTV,12,Paytm,4
+davidcantu,1/29/1993,Email,Male,432698,6/28/2022,ACTIVE,NO,12/23/2022,India,Uttar Pradesh,1517.6666666666667,21,FireTV,6,NetBanking,3
+tracie77,4/3/2002,Email,Male,432710,8/10/2022,INACTIVE,NO,11/8/2022,India,Uttar Pradesh,1875.6,15,PC/Laptop,3,NetBanking,2
+knightstephanie,8/19/2002,Email,Male,432790,11/27/2022,INACTIVE,NO,12/27/2022,India,Uttar Pradesh,860.9,10,PC/Laptop,3,NetBanking,2
+rebecca01,3/12/1989,Email,Female,432997,8/23/2022,ACTIVE,YES,11/20/2022,India,Uttar Pradesh,2088.809523809524,21,FireTV,3,NetBanking,2
+philipjimenez,8/21/1996,Email,Female,432164,4/30/2022,INACTIVE,NO,12/26/2022,India,Andhra Pradesh,922.1538461538462,13,FireTV,12,Paytm,4
+fernandezashley,10/19/2005,Email,Male,432286,9/16/2021,ACTIVE,NO,11/28/2022,India,Andhra Pradesh,770.3076923076923,13,Android Phone,12,Paytm,4
+hjones,6/30/1992,Email,Male,432319,3/14/2022,ACTIVE,YES,11/10/2022,India,Andhra Pradesh,1834.6666666666667,18,FireTV,12,Paytm,4
+douglas42,2/8/1992,Email,Male,432330,5/27/2022,INACTIVE,YES,11/20/2022,India,Andhra Pradesh,2013.625,16,iPhone,3,NetBanking,2
+ddennis,10/26/1992,Email,Female,432337,1/25/2022,ACTIVE,YES,11/12/2022,India,Andhra Pradesh,815.3529411764706,17,FireTV,6,NetBanking,3
+ogutierrez,5/5/1992,Email,Female,432371,5/3/2021,ACTIVE,NO,11/22/2022,India,Andhra Pradesh,1317.6666666666667,21,PC/Laptop,1,Paytm,1
+montessheila,5/23/1992,Email,Female,432626,10/28/2022,INACTIVE,YES,12/27/2022,India,Andhra Pradesh,1614.8181818181818,22,PC/Laptop,3,NetBanking,2
+mindy89,8/27/1993,Email,Male,432700,10/14/2022,INACTIVE,YES,12/6/2022,India,Andhra Pradesh,1166.52,25,PC/Laptop,3,NetBanking,2
+harriselizabeth,10/23/2002,Email,Female,432780,1/16/2021,ACTIVE,NO,11/16/2022,India,Andhra Pradesh,931.0714285714286,14,FireTV,12,Paytm,4
+williammcknight,3/18/1992,Email,Male,432890,11/2/2021,INACTIVE,NO,12/25/2022,India,Andhra Pradesh,861.695652173913,23,PC/Laptop,1,Paytm,1
+wileyjose,7/25/2006,Email,Male,432964,4/6/2022,INACTIVE,YES,12/28/2022,India,Andhra Pradesh,986.7619047619048,21,FireTV,12,Paytm,4
+daniellesmith,4/19/1989,Email,Male,433004,2/2/2022,ACTIVE,YES,11/27/2022,India,Andhra Pradesh,1028.7692307692307,13,FireTV,3,NetBanking,2
+timothykline,8/30/1989,Email,Male,433039,1/27/2021,ACTIVE,NO,11/21/2022,India,Andhra Pradesh,1717.6190476190477,21,FireTV,12,Paytm,4
+martinjessica,9/17/1993,Email,Female,433137,1/2/2021,INACTIVE,YES,11/11/2022,India,Andhra Pradesh,1942.7,10,FireTV,3,NetBanking,2
+nhunter,6/17/2005,Email,Male,432294,5/12/2022,ACTIVE,NO,11/13/2022,India,Madhya Pradesh,969.3888888888889,18,FireTV,3,NetBanking,2
+amandamorales,1/10/1997,Email,Female,432586,5/8/2021,ACTIVE,YES,12/2/2022,India,Madhya Pradesh,1507.6666666666667,12,PC/Laptop,3,NetBanking,2
+richardgraham,6/11/1992,Email,Male,432594,6/27/2022,ACTIVE,NO,11/21/2022,India,Madhya Pradesh,1386.9166666666667,24,FireTV,12,Paytm,4
+hannahcarroll,6/29/1991,Email,Female,432644,10/11/2022,ACTIVE,NO,12/11/2022,India,Madhya Pradesh,1553.4736842105262,19,FireTV,3,NetBanking,2
+james21,12/27/2021,Email,Female,432707,1/1/2022,ACTIVE,NO,12/7/2022,India,Madhya Pradesh,776.56,25,FireTV,1,Paytm,1
+bjohnson,11/28/2021,Email,Male,432781,7/25/2022,ACTIVE,NO,11/11/2022,India,Madhya Pradesh,1177.1764705882354,17,FireTV,3,NetBanking,2
+cblanchard,9/5/2000,Email,Male,432196,8/7/2021,INACTIVE,YES,12/23/2022,India,Himachal Pradesh,1507.8947368421052,19,Apple TV,12,Paytm,4
+tonyagarcia,1/17/2005,Email,Polygender,432253,12/29/2021,ACTIVE,YES,12/4/2022,India,Himachal Pradesh,1239.7222222222222,18,FireTV,1,Paytm,1
+rcampbell,3/6/2005,Email,Female,432267,1/17/2022,INACTIVE,YES,12/8/2022,India,Himachal Pradesh,1595.65,20,Android TV,3,NetBanking,2
+xholmes,12/7/2021,Email,Male,432554,3/26/2021,ACTIVE,YES,12/12/2022,India,Himachal Pradesh,1970.7333333333333,15,PC/Laptop,1,Paytm,1
+christina94,3/10/1997,Email,Male,432570,10/3/2021,INACTIVE,NO,11/14/2022,India,Himachal Pradesh,872.1666666666666,18,iPad,3,NetBanking,2
+michellewilson,3/13/1991,Email,Male,432627,10/14/2021,ACTIVE,YES,12/11/2022,India,Himachal Pradesh,1068.5294117647059,17,PC/Laptop,3,NetBanking,2
+veronica11,1/11/2002,Email,Male,432711,10/25/2021,ACTIVE,YES,12/11/2022,India,Himachal Pradesh,829.7272727272727,22,PC/Laptop,3,NetBanking,2
+aliciacruz,2/27/1992,Email,Female,432868,9/14/2022,INACTIVE,YES,11/30/2022,India,Himachal Pradesh,1117.5384615384614,13,FireTV,3,NetBanking,2
+rachaelchristensen,9/28/2006,Email,Female,432980,3/16/2022,ACTIVE,NO,11/29/2022,India,Himachal Pradesh,1913.75,12,FireTV,6,NetBanking,3
+hescobar,9/16/2006,Email,Male,432981,6/12/2021,INACTIVE,YES,12/2/2022,India,Himachal Pradesh,749.3157894736842,19,PC/Laptop,3,NetBanking,2
+jamesbird,12/8/2021,Email,Male,432986,10/16/2021,INACTIVE,NO,11/11/2022,India,Himachal Pradesh,1252.5,22,FireTV,3,NetBanking,2
+montgomerytristan,1/3/1992,Email,Male,433092,6/7/2022,INACTIVE,NO,12/9/2022,India,Himachal Pradesh,1172.608695652174,23,PC/Laptop,12,Paytm,4
+roblesjustin,7/1/1993,Email,Female,433139,12/23/2021,ACTIVE,YES,12/15/2022,India,Himachal Pradesh,1010.0666666666667,15,iPad,3,NetBanking,2
+kerrkatherine,4/7/1993,Email,Male,433140,2/5/2021,ACTIVE,YES,12/2/2022,India,Himachal Pradesh,1204.391304347826,23,FireTV,6,NetBanking,3
+mcdowellanna,3/15/1996,Email,Male,432166,8/28/2021,ACTIVE,YES,12/7/2022,India,Arunachal Pradesh,1136.3103448275863,29,Android Phone,1,Paytm,1
+raymondbryant,10/30/2000,Email,Female,432201,10/31/2021,INACTIVE,YES,12/4/2022,India,Arunachal Pradesh,1005.9545454545455,22,FireTV,12,Paytm,4
+jordansolis,10/3/2001,Email,Male,432217,6/28/2021,ACTIVE,NO,12/10/2022,India,Arunachal Pradesh,1390.3157894736842,19,iPhone,1,Paytm,1
+michael66,12/28/2021,Email,Male,432282,4/16/2022,INACTIVE,NO,11/9/2022,India,Arunachal Pradesh,1301.235294117647,17,FireTV,3,NetBanking,2
+lukesmith,11/14/2021,Email,Male,432353,3/18/2021,INACTIVE,NO,12/31/2022,India,Arunachal Pradesh,1777.421052631579,19,Android TV,12,Paytm,4
+morgankenneth,4/1/1994,Email,Male,432418,12/2/2021,INACTIVE,YES,12/24/2022,India,Arunachal Pradesh,1365.1052631578948,19,PC/Laptop,12,Paytm,4
+zclay,5/21/1992,Email,Male,432445,4/25/2022,ACTIVE,NO,11/14/2022,India,Arunachal Pradesh,1373.8333333333333,18,iPad,3,NetBanking,2
+pwebb,10/7/2015,Email,Male,432494,1/29/2022,INACTIVE,YES,11/21/2022,India,Arunachal Pradesh,1273.9545454545455,22,FireTV,3,NetBanking,2
+williamflores,12/29/2021,Email,Genderqueer,432527,10/30/2021,ACTIVE,NO,12/5/2022,India,Arunachal Pradesh,1277.2307692307693,13,PC/Laptop,6,NetBanking,3
+shawngross,2/28/1993,Email,Female,432670,5/4/2022,ACTIVE,YES,12/27/2022,India,Arunachal Pradesh,1036.6875,16,PC/Laptop,1,Paytm,1
+robinsonmichael,8/21/2002,Email,Genderfluid,432714,7/25/2021,INACTIVE,YES,11/27/2022,India,Arunachal Pradesh,906.2272727272727,22,PC/Laptop,1,Paytm,1
+matthewsdaniel,4/13/1992,Email,Female,432884,5/18/2021,ACTIVE,YES,12/1/2022,India,Arunachal Pradesh,1457.7,20,FireTV,3,NetBanking,2
+kevin92,4/5/2006,Email,Female,432953,4/26/2022,INACTIVE,YES,11/10/2022,India,Arunachal Pradesh,1038.0555555555557,18,FireTV,1,Paytm,1
+gibsontiffany,5/23/1989,Email,Female,433077,2/23/2021,ACTIVE,NO,11/27/2022,India,Arunachal Pradesh,1638.7222222222222,18,PC/Laptop,12,Paytm,4
+randy56,2/4/1993,Email,Male,433113,3/19/2021,ACTIVE,YES,11/21/2022,India,Arunachal Pradesh,1325.9130434782608,23,PC/Laptop,12,Paytm,4
+karenjordan,1/23/1993,Email,Female,433124,7/26/2022,INACTIVE,NO,12/10/2022,India,Arunachal Pradesh,1504.5625,16,PC/Laptop,3,NetBanking,2
+justinsullivan,7/13/2005,Phone,Female,432297,9/26/2021,ACTIVE,NO,11/23/2022,India,Goa,1630.611111111111,18,PC/Laptop,12,Paytm,4
+thomaswilson,10/3/2002,Phone,Male,432715,11/25/2021,INACTIVE,YES,11/28/2022,India,Goa,2026.5714285714287,14,FireTV,12,Paytm,4
+brookesmith,11/4/2002,Phone,Male,432738,10/21/2022,INACTIVE,YES,12/12/2022,India,Goa,1226.2222222222222,18,PC/Laptop,12,Paytm,4
+josephblackburn,10/8/2006,Phone,Male,432966,3/23/2022,INACTIVE,YES,12/20/2022,India,Goa,1684.357142857143,14,Android TV,12,Paytm,4
+blackmary,2/6/2006,Phone,Female,432972,1/7/2022,INACTIVE,YES,11/20/2022,India,Goa,1337.608695652174,23,PC/Laptop,6,NetBanking,3
+samanthawilliams,8/29/2001,Phone,Female,432234,1/21/2021,ACTIVE,YES,12/16/2022,India,Assam,1713.9285714285713,14,iPhone,12,Paytm,4
+sarahernandez,6/6/2015,Phone,Female,432462,2/26/2022,INACTIVE,NO,11/27/2022,India,Assam,1509.5882352941176,16,Android TV,6,NetBanking,3
+juanharris,3/21/2015,Phone,Male,432520,7/21/2022,INACTIVE,YES,12/9/2022,India,Assam,1575.3,20,FireTV,12,Paytm,4
+katie56,4/10/1997,Phone,Female,432569,4/27/2021,ACTIVE,YES,12/1/2022,India,Assam,951.3793103448276,29,FireTV,3,NetBanking,2
+jflowers,9/30/1992,Phone,Male,432609,3/4/2022,ACTIVE,YES,12/1/2022,India,Assam,1701.764705882353,17,FireTV,6,NetBanking,3
+coletheodore,9/9/1998,Phone,Male,432835,1/30/2022,ACTIVE,YES,11/9/2022,India,Assam,1780.8666666666666,15,PC/Laptop,12,Paytm,4
+jonesjohn,6/25/2006,Phone,Male,432923,6/7/2021,ACTIVE,YES,11/29/2022,India,Assam,1408.1052631578948,19,Android TV,12,Paytm,4
+arthur75,8/25/2006,Phone,Male,432939,1/5/2021,ACTIVE,NO,12/21/2022,India,Assam,1667.7058823529412,17,FireTV,12,Paytm,4
+anthony33,10/17/1989,Phone,Female,433034,7/4/2021,INACTIVE,YES,11/9/2022,India,Assam,1423.7058823529412,17,PC/Laptop,1,Paytm,1
+xhansen,10/11/1992,Phone,Female,432322,5/17/2022,INACTIVE,YES,12/27/2022,India,Bihar,1553.0588235294117,17,FireTV,3,NetBanking,2
+jeremy51,4/6/1992,Phone,Female,432326,1/10/2021,INACTIVE,NO,11/23/2022,India,Bihar,727.8333333333334,12,FireTV,3,NetBanking,2
+ramseyjoe,10/8/1992,Phone,Genderfluid,432351,10/20/2022,ACTIVE,YES,11/24/2022,India,Bihar,1142.5217391304348,23,FireTV,12,Paytm,4
+travisturner,11/28/2021,Phone,Male,432414,5/10/2022,INACTIVE,NO,12/30/2022,India,Bihar,1286.16,25,Android Phone,12,Paytm,4
+gonzalezjonathan,11/30/2021,Phone,Non-binary,432500,4/6/2022,ACTIVE,YES,11/26/2022,India,Bihar,1378.4666666666667,15,FireTV,12,Paytm,4
+zachary88,11/29/2021,Phone,Female,432605,8/2/2022,INACTIVE,YES,12/19/2022,India,Bihar,1297.8333333333333,18,FireTV,12,Paytm,4
+karen58,4/15/2002,Phone,Male,432727,11/13/2022,ACTIVE,NO,12/28/2022,India,Bihar,1289.9375,16,FireTV,3,NetBanking,2
+stephaniebutler,3/27/1989,Phone,Female,433044,12/11/2021,ACTIVE,YES,12/7/2022,India,Bihar,1267.9,20,Android Phone,12,Paytm,4
+glassjuan,11/10/2021,Phone,Male,433098,9/21/2021,INACTIVE,YES,12/28/2022,India,Bihar,1837.0526315789473,19,PC/Laptop,12,Paytm,4
+tammyskinner,11/16/2021,Phone,Female,433144,3/31/2022,ACTIVE,NO,11/11/2022,India,Bihar,867.3913043478261,23,Android Phone,3,NetBanking,2
+arellanodanielle,9/29/1992,Phone,Male,432177,4/6/2022,INACTIVE,NO,11/9/2022,India,Kerala,1523.5,18,PC/Laptop,1,Paytm,1
+richardlowe,8/12/1986,Phone,Female,432190,10/6/2021,ACTIVE,YES,11/18/2022,India,Kerala,1386.578947368421,19,Android TV,6,NetBanking,3
+michele74,8/22/2015,Phone,Male,432518,3/9/2022,ACTIVE,YES,11/30/2022,India,Kerala,759.68,25,FireTV,12,Paytm,4
+oallen,10/27/1992,Phone,Female,432588,5/21/2022,INACTIVE,NO,12/25/2022,India,Kerala,1125.7,20,PC/Laptop,12,Paytm,4
+fbauer,11/29/2021,Phone,Female,433018,4/2/2021,INACTIVE,NO,12/9/2022,India,Kerala,1315.5238095238096,21,Android TV,12,Paytm,4
+pittmancarl,7/8/1989,Phone,Female,433060,4/26/2022,ACTIVE,YES,11/16/2022,India,Kerala,1743.0666666666666,15,FireTV,3,NetBanking,2
+irichards,11/28/2021,Phone,Male,433086,3/22/2021,INACTIVE,NO,12/10/2022,India,Kerala,1793.6666666666667,21,PC/Laptop,12,Paytm,4
+andreajones,5/2/1992,Phone,Polygender,433096,2/9/2022,ACTIVE,YES,12/4/2022,India,Kerala,1450.52,24,PC/Laptop,12,Paytm,4
+aadams,5/20/1992,Phone,Female,433154,7/21/2021,INACTIVE,NO,11/20/2022,India,Kerala,1168.7272727272727,22,FireTV,12,Paytm,4
+dodsoncody,8/12/2005,Phone,Male,432269,5/29/2021,ACTIVE,NO,11/29/2022,India,Odisha,1136.5,18,Android Phone,3,NetBanking,2
+garrettdavid,11/4/2005,Phone,Male,432296,3/13/2021,INACTIVE,YES,12/22/2022,India,Odisha,1143.076923076923,13,FireTV,3,NetBanking,2
+michaelnguyen,5/27/1992,Phone,Male,432366,12/17/2021,INACTIVE,NO,12/24/2022,India,Odisha,1910.2857142857142,21,FireTV,12,Paytm,4
+brittany95,8/31/1994,Phone,Male,432429,2/18/2022,INACTIVE,NO,12/13/2022,India,Odisha,1691.9285714285713,14,PC/Laptop,3,NetBanking,2
+john44,2/8/1992,Phone,Female,432435,2/21/2022,INACTIVE,YES,12/11/2022,India,Odisha,1588.7619047619048,21,FireTV,12,Paytm,4
+eric60,1/9/1992,Phone,Female,432437,5/14/2021,ACTIVE,NO,12/18/2022,India,Odisha,1546.7333333333333,15,FireTV,3,NetBanking,2
+alec91,6/6/1992,Phone,Female,432807,10/5/2021,INACTIVE,YES,12/28/2022,India,Odisha,1495.4761904761904,21,FireTV,12,Paytm,4
+melissa04,7/23/1992,Phone,Male,432885,4/25/2022,INACTIVE,NO,11/21/2022,India,Odisha,849.6,10,PC/Laptop,1,Paytm,1
+diazrobert,4/23/1992,Phone,Male,432887,7/29/2022,ACTIVE,NO,12/19/2022,India,Odisha,1052.6,19,FireTV,3,NetBanking,2
+william87,10/13/2006,Phone,Male,432921,3/20/2022,ACTIVE,NO,12/28/2022,India,Odisha,1250.1666666666667,24,PC/Laptop,6,NetBanking,3
+spearsmary,2/22/2006,Phone,Female,432952,7/11/2022,INACTIVE,NO,11/19/2022,India,Odisha,2329.6315789473683,19,PC/Laptop,3,NetBanking,2
+brent66,5/15/2006,Phone,Male,432984,7/7/2021,ACTIVE,NO,12/25/2022,India,Odisha,1880.0454545454545,22,PC/Laptop,3,NetBanking,2
+jasonwhite,5/7/1992,Phone,Male,432317,1/7/2021,INACTIVE,YES,12/2/2022,India,Punjab,1451.8666666666666,15,PC/Laptop,12,Paytm,4
+kellerstefanie,1/22/1999,Phone,Male,432394,4/6/2022,ACTIVE,YES,11/20/2022,India,Punjab,968.7727272727273,22,PC/Laptop,6,NetBanking,3
+frank08,1/20/1999,Phone,Male,432401,11/25/2022,ACTIVE,YES,11/8/2022,India,Punjab,1204.095238095238,21,PC/Laptop,12,Paytm,4
+williamlopez,6/25/1994,Phone,Male,432423,9/11/2022,INACTIVE,NO,11/12/2022,India,Punjab,796.2222222222222,18,Android Phone,12,Paytm,4
+eguerrero,10/31/1991,Phone,Genderfluid,432630,6/14/2022,INACTIVE,NO,12/24/2022,India,Punjab,878.6363636363636,22,Android Phone,12,Paytm,4
+woodwardpaul,8/4/1993,Phone,Female,432686,6/8/2021,ACTIVE,NO,11/12/2022,India,Punjab,1751.4117647058824,17,FireTV,1,Paytm,1
+ryanhayes,8/4/1998,Phone,Male,432828,7/1/2022,ACTIVE,NO,12/28/2022,India,Punjab,1329.409090909091,22,PC/Laptop,12,Paytm,4
+sara59,12/29/2021,Phone,Male,432841,3/28/2022,INACTIVE,NO,11/11/2022,India,Punjab,1390.5833333333333,24,FireTV,6,NetBanking,3
+hcannon,1/24/1992,Phone,Male,432910,7/5/2021,ACTIVE,NO,11/17/2022,India,Punjab,1282.7142857142858,21,FireTV,3,NetBanking,2
+mpayne,10/10/2006,Phone,Male,432946,7/21/2022,INACTIVE,YES,11/25/2022,India,Punjab,1228.388888888889,18,Android Phone,12,Paytm,4
+danielneal,3/31/1993,Phone,Female,433118,2/14/2021,ACTIVE,NO,11/28/2022,India,Punjab,1001.0,16,FireTV,6,NetBanking,3
+baldwinkayla,4/18/2005,Phone,Male,432265,8/5/2022,INACTIVE,YES,11/30/2022,India,Sikkim,1039.0,15,FireTV,12,Paytm,4
+hnguyen,4/29/1992,Phone,Female,432405,8/6/2022,ACTIVE,NO,12/16/2022,India,Sikkim,1114.0625,16,Android TV,3,NetBanking,2
+charles91,8/10/1994,Phone,Male,432417,9/29/2022,INACTIVE,YES,12/11/2022,India,Sikkim,887.75,16,FireTV,12,Paytm,4
+joshuabell,12/23/2021,Phone,Male,432454,3/28/2022,INACTIVE,NO,12/13/2022,India,Sikkim,901.1578947368421,19,FireTV,3,NetBanking,2
+angelajohnson,1/10/2015,Phone,Female,432478,12/13/2021,INACTIVE,NO,11/27/2022,India,Sikkim,1182.1724137931035,29,PC/Laptop,6,NetBanking,3
+deannaduke,11/4/1998,Phone,Female,432825,1/19/2022,INACTIVE,NO,12/22/2022,India,Sikkim,1858.3809523809523,21,Android Phone,1,Paytm,1
+salazartammy,1/4/1992,Phone,Male,432866,5/4/2022,INACTIVE,YES,12/20/2022,India,Sikkim,1114.1875,16,PC/Laptop,3,NetBanking,2
+bakercaleb,6/22/1989,Phone,Male,433020,10/27/2021,ACTIVE,YES,12/24/2022,India,Sikkim,1470.0,17,Apple TV,6,NetBanking,3
+justin48,9/15/1989,Phone,Male,433025,8/8/2021,INACTIVE,YES,11/20/2022,India,Sikkim,1047.235294117647,17,PC/Laptop,12,Paytm,4
+brownstacy,7/8/1992,Phone,Polygender,432173,2/10/2021,INACTIVE,NO,11/25/2022,India,Gujarat,1653.9411764705883,17,FireTV,12,Paytm,4
+ereyes,9/19/1992,Phone,Female,432412,4/12/2022,ACTIVE,NO,12/1/2022,India,Gujarat,1161.3333333333333,15,Android Phone,6,NetBanking,3
+chrisjohnson,1/22/1992,Phone,Female,432448,2/27/2021,ACTIVE,YES,11/9/2022,India,Gujarat,1038.75,16,PC/Laptop,3,NetBanking,2
+lynndavid,8/1/1998,Phone,Female,432820,2/13/2022,ACTIVE,NO,11/15/2022,India,Gujarat,1678.888888888889,27,Android TV,12,Paytm,4
+christopher75,4/2/1992,Phone,Male,432865,8/17/2021,ACTIVE,YES,12/20/2022,India,Gujarat,833.7272727272727,11,PC/Laptop,12,Paytm,4
+grogers,2/28/1992,Phone,Male,432905,3/22/2022,ACTIVE,YES,12/25/2022,India,Gujarat,1081.5,24,FireTV,3,NetBanking,2
+yfuller,6/26/1992,Phone,Male,432913,1/7/2021,INACTIVE,YES,11/29/2022,India,Gujarat,1434.4545454545455,11,PC/Laptop,3,NetBanking,2
+jamie50,4/25/2006,Phone,Female,432934,3/27/2022,INACTIVE,YES,11/23/2022,India,Gujarat,1809.4615384615386,13,FireTV,12,Paytm,4
+paul81,11/17/2021,Phone,Female,432967,5/6/2022,ACTIVE,NO,11/13/2022,India,Gujarat,1487.9,20,FireTV,12,Paytm,4
+hahnjose,9/11/1993,Phone,Genderfluid,433143,9/10/2022,ACTIVE,YES,11/21/2022,India,Gujarat,1206.6,20,PC/Laptop,12,Paytm,4
+joseph08,3/10/1993,Phone,Bigender,433148,6/2/2021,INACTIVE,YES,12/13/2022,India,Gujarat,1552.1176470588234,17,FireTV,12,Paytm,4
+andrew41,12/27/2021,Phone,Female,432363,10/30/2022,ACTIVE,NO,12/7/2022,India,Haryana,1026.6666666666667,21,PC/Laptop,3,NetBanking,2
+johnstonjacqueline,12/5/2021,Phone,Genderfluid,432467,12/30/2021,INACTIVE,YES,11/13/2022,India,Haryana,952.8235294117648,17,PC/Laptop,12,Paytm,4
+lindseymoses,10/24/2015,Phone,Female,432512,10/24/2021,INACTIVE,NO,12/7/2022,India,Haryana,1977.111111111111,9,PC/Laptop,3,NetBanking,2
+gregorykathryn,12/4/2021,Phone,Male,432827,3/20/2021,INACTIVE,YES,11/8/2022,India,Haryana,1543.875,16,FireTV,12,Paytm,4
+matthewparsons,9/8/1993,Phone,Male,433132,10/16/2022,ACTIVE,NO,12/6/2022,India,Haryana,817.4666666666667,15,Android TV,12,Paytm,4
+petersonalexander,10/28/1996,Phone,Bigender,432161,11/2/2021,ACTIVE,YES,12/9/2022,India,Manipur,1170.4615384615386,13,PC/Laptop,6,NetBanking,3
+donna69,7/1/1992,Phone,Male,432349,10/27/2022,INACTIVE,NO,11/19/2022,India,Manipur,861.2941176470588,17,PC/Laptop,1,Paytm,1
+kcisneros,9/11/1992,Phone,Male,432354,5/4/2021,ACTIVE,NO,12/14/2022,India,Manipur,1567.5,26,FireTV,1,Paytm,1
+gardnerbrooke,10/15/1994,Phone,Male,432424,9/20/2021,INACTIVE,NO,12/28/2022,India,Manipur,1893.8695652173913,23,Android Phone,3,NetBanking,2
+smithmichael,6/14/1992,Phone,Female,432436,8/5/2022,INACTIVE,NO,12/30/2022,India,Manipur,1148.7916666666667,24,PC/Laptop,12,Paytm,4
+julia32,1/27/2015,Phone,Male,432465,7/12/2021,ACTIVE,NO,12/20/2022,India,Manipur,1146.1818181818182,11,PC/Laptop,12,Paytm,4
+juliedouglas,2/15/2015,Phone,Bigender,432483,8/24/2022,ACTIVE,NO,12/5/2022,India,Manipur,908.2,15,PC/Laptop,3,NetBanking,2
+john40,6/9/2010,Phone,Male,432537,1/23/2021,INACTIVE,YES,12/27/2022,India,Manipur,1083.4285714285713,14,PC/Laptop,6,NetBanking,3
+jeffreypowell,4/4/1992,Phone,Female,432616,5/5/2021,ACTIVE,YES,12/10/2022,India,Manipur,1182.4761904761904,21,iPad,12,Paytm,4
+nancy46,2/13/1992,Phone,Female,432705,3/27/2021,ACTIVE,NO,11/25/2022,India,Manipur,1686.095238095238,21,FireTV,3,NetBanking,2
+richarddennis,2/19/2002,Phone,Male,432720,1/19/2021,INACTIVE,YES,12/24/2022,India,Manipur,1520.9285714285713,13,PC/Laptop,12,Paytm,4
+daviddavis,9/27/1992,Phone,Female,432874,5/25/2021,INACTIVE,YES,12/2/2022,India,Manipur,1577.88,25,PC/Laptop,3,NetBanking,2
+johnwilliams,4/24/2006,Phone,Male,432976,4/23/2022,INACTIVE,NO,11/25/2022,India,Manipur,1393.3809523809523,21,FireTV,12,Paytm,4
+tammywood,10/25/1989,Phone,Female,433057,11/26/2022,ACTIVE,YES,12/13/2022,India,Manipur,1029.7894736842106,19,PC/Laptop,3,NetBanking,2
+dawnlittle,6/30/2005,Phone,Male,432291,9/5/2021,ACTIVE,YES,11/29/2022,India,Mizoram,1698.4285714285713,21,PC/Laptop,12,Paytm,4
+yangruth,9/5/1999,Phone,Male,432376,8/7/2021,ACTIVE,YES,12/9/2022,India,Mizoram,1058.4615384615386,13,FireTV,3,NetBanking,2
+james70,12/7/2021,Phone,Female,432440,10/5/2022,INACTIVE,YES,12/15/2022,India,Mizoram,1847.9473684210527,19,Android TV,3,NetBanking,2
+ugarcia,8/25/1992,Phone,Female,432620,2/11/2021,INACTIVE,YES,11/30/2022,India,Mizoram,1745.6818181818182,22,FireTV,12,Paytm,4
+uhill,6/18/1991,Phone,Male,432641,1/20/2021,ACTIVE,NO,11/9/2022,India,Mizoram,1058.0,17,PC/Laptop,12,Paytm,4
+rhondawalker,4/13/2002,Phone,Non-binary,432733,11/25/2021,ACTIVE,NO,12/26/2022,India,Mizoram,1551.7916666666667,24,FireTV,6,NetBanking,3
+zkeith,9/22/2002,Phone,Female,432737,7/3/2022,INACTIVE,YES,12/3/2022,India,Mizoram,1640.4285714285713,7,iPhone,3,NetBanking,2
+rayjill,11/5/2002,Phone,Male,432764,10/22/2021,ACTIVE,NO,11/14/2022,India,Mizoram,1792.6,15,PC/Laptop,3,NetBanking,2
+anthony91,3/9/1992,Phone,Female,432812,7/14/2022,ACTIVE,YES,11/23/2022,India,Mizoram,1082.909090909091,22,PC/Laptop,1,Paytm,1
+stanleydan,7/6/2000,Phone,Male,432193,8/21/2021,ACTIVE,NO,12/29/2022,India,Tripura,1060.875,24,iPad,12,Paytm,4
+danahopkins,9/3/2005,Phone,Male,432270,8/14/2021,INACTIVE,YES,12/30/2022,India,Tripura,1600.142857142857,14,FireTV,1,Paytm,1
+shawnmccullough,10/10/2005,Phone,Male,432284,11/17/2022,ACTIVE,NO,11/18/2022,India,Tripura,1010.5333333333333,15,PC/Laptop,12,Paytm,4
+xgreen,12/13/2021,Phone,Male,432419,9/9/2022,ACTIVE,NO,12/3/2022,India,Tripura,1275.5294117647059,17,PC/Laptop,3,NetBanking,2
+franklee,4/30/2010,Phone,Male,432536,8/17/2021,INACTIVE,YES,11/14/2022,India,Tripura,1911.0,19,FireTV,12,Paytm,4
+jeffreyabbott,8/17/1993,Phone,Male,432690,3/20/2021,ACTIVE,YES,11/10/2022,India,Tripura,695.2666666666667,15,PC/Laptop,12,Paytm,4
+lisabowman,11/25/2021,Phone,Bigender,432832,2/10/2021,ACTIVE,NO,12/5/2022,India,Tripura,1027.1764705882354,17,FireTV,12,Paytm,4
+amber64,10/28/2006,Phone,Female,432933,3/9/2022,INACTIVE,YES,12/14/2022,India,Tripura,1272.4,15,Android Phone,6,NetBanking,3
+alexiscameron,3/17/1989,Phone,Female,432995,5/28/2022,ACTIVE,YES,11/15/2022,India,Tripura,1309.2,20,FireTV,12,Paytm,4
+campbellrobin,5/21/1993,Phone,Female,433122,10/12/2021,INACTIVE,YES,12/17/2022,India,Tripura,1950.65,20,PC/Laptop,12,Paytm,4
+cfaulkner,7/8/1992,Phone,Female,432314,10/14/2021,INACTIVE,YES,12/30/2022,India,Nagaland,678.8,10,FireTV,12,Paytm,4
+vasquezamy,3/10/1992,Phone,Male,432370,9/4/2022,ACTIVE,NO,12/27/2022,India,Nagaland,1479.8333333333333,12,Android TV,6,NetBanking,3
+cynthia24,4/17/1999,Phone,Female,432380,6/24/2022,ACTIVE,YES,12/31/2022,India,Nagaland,880.8333333333334,18,PC/Laptop,12,Paytm,4
+klyons,8/22/1992,Phone,Female,432439,5/23/2021,INACTIVE,YES,11/15/2022,India,Nagaland,1160.7619047619048,21,FireTV,3,NetBanking,2
+jeffreyschroeder,3/26/2015,Phone,Female,432505,3/12/2022,ACTIVE,YES,12/30/2022,India,Nagaland,1266.2916666666667,24,FireTV,12,Paytm,4
+davidlopez,6/5/2010,Phone,Male,432542,2/28/2021,ACTIVE,YES,11/8/2022,India,Nagaland,1880.2,10,PC/Laptop,12,Paytm,4
+spencercharles,6/28/1992,Phone,Female,432655,10/7/2022,ACTIVE,NO,11/8/2022,India,Nagaland,1160.2857142857142,21,PC/Laptop,12,Paytm,4
+wilsonjoseph,12/10/2021,Phone,Female,432722,11/17/2022,ACTIVE,YES,11/22/2022,India,Nagaland,1309.695652173913,23,FireTV,12,Paytm,4
+fhenry,8/19/2006,Phone,Male,432985,5/30/2021,ACTIVE,YES,12/2/2022,India,Nagaland,1213.48,25,PC/Laptop,1,Paytm,1
+sharonsmith,7/27/1993,Phone,Female,433128,4/26/2022,INACTIVE,NO,12/31/2022,India,Nagaland,937.6,15,PC/Laptop,3,NetBanking,2
+abryant,12/1/2021,Phone,Female,432312,4/13/2021,ACTIVE,NO,12/30/2022,India,Jharkhand,1030.5384615384614,13,PC/Laptop,1,Paytm,1
+james00,12/6/2021,Phone,Female,432324,6/7/2022,ACTIVE,YES,12/31/2022,India,Jharkhand,924.2727272727273,11,PC/Laptop,3,NetBanking,2
+michael21,6/7/1999,Phone,Female,432392,9/17/2022,ACTIVE,NO,12/8/2022,India,Jharkhand,1044.5862068965516,29,PC/Laptop,12,Paytm,4
+jason75,5/16/2010,Phone,Female,432541,2/8/2022,ACTIVE,NO,12/18/2022,India,Jharkhand,1431.142857142857,14,PC/Laptop,12,Paytm,4
+tracimelton,5/22/2010,Phone,Genderfluid,432551,4/14/2022,ACTIVE,YES,12/27/2022,India,Jharkhand,949.8,15,PC/Laptop,3,NetBanking,2
+michaelnavarro,8/25/1992,Phone,Female,432661,12/27/2021,ACTIVE,YES,12/29/2022,India,Jharkhand,1974.6,25,FireTV,3,NetBanking,2
+dcallahan,12/12/2021,Phone,Male,432805,8/22/2021,INACTIVE,NO,12/16/2022,India,Jharkhand,1260.047619047619,21,FireTV,12,Paytm,4
+ronaldramos,2/21/1993,Phone,Female,433114,10/8/2021,INACTIVE,YES,12/14/2022,India,Jharkhand,958.421052631579,19,Android TV,12,Paytm,4
+thomas62,10/19/1992,Phone,Male,432175,3/26/2021,INACTIVE,YES,11/20/2022,India,Karnataka,1766.0,12,iPhone,12,Paytm,4
+tjackson,11/26/2021,Phone,Female,432192,6/20/2021,INACTIVE,NO,12/5/2022,India,Karnataka,1659.3333333333333,21,Android TV,6,NetBanking,3
+nicole17,3/22/2000,Phone,Polygender,432198,8/9/2021,INACTIVE,NO,12/5/2022,India,Karnataka,475.93333333333334,15,PC/Laptop,6,NetBanking,3
+mark40,5/6/1992,Phone,Female,432323,7/10/2021,INACTIVE,NO,11/16/2022,India,Karnataka,1871.2222222222222,18,Android Phone,12,Paytm,4
+tjones,12/14/2021,Phone,Male,432426,12/10/2021,ACTIVE,NO,11/11/2022,India,Karnataka,1620.5,24,FireTV,3,NetBanking,2
+gary57,10/19/2010,Phone,Agender,432549,12/8/2021,ACTIVE,YES,11/17/2022,India,Karnataka,831.0,17,FireTV,1,Paytm,1
+jordan68,12/10/2021,Phone,Female,432709,9/28/2022,ACTIVE,NO,12/18/2022,India,Karnataka,2004.0,19,FireTV,1,Paytm,1
+klandry,11/12/2021,Phone,Male,432756,7/26/2022,ACTIVE,NO,12/17/2022,India,Karnataka,1606.0,13,FireTV,12,Paytm,4
+jose28,10/3/1989,Phone,Male,433052,11/1/2022,ACTIVE,YES,11/16/2022,India,Karnataka,1577.0,20,Android Phone,12,Paytm,4
+doris58,5/10/1989,Phone,Male,433056,9/21/2021,INACTIVE,YES,12/21/2022,India,Karnataka,1828.5714285714287,21,PC/Laptop,3,NetBanking,2
+james22,9/1/1993,Phone,Genderqueer,433145,4/21/2021,INACTIVE,YES,12/12/2022,India,Karnataka,877.8888888888889,18,FireTV,3,NetBanking,2
+michelle99,1/16/1992,Phone,Female,432308,2/3/2022,INACTIVE,NO,12/31/2022,India,Meghalaya,1152.0625,16,FireTV,12,Paytm,4
+sdawson,2/14/1992,Phone,Female,432344,7/13/2022,ACTIVE,YES,11/14/2022,India,Meghalaya,1814.5882352941176,17,PC/Laptop,1,Paytm,1
+rebeccapadilla,6/1/1992,Phone,Female,432360,1/31/2022,INACTIVE,NO,11/28/2022,India,Meghalaya,1652.2727272727273,22,PC/Laptop,12,Paytm,4
+daniel46,12/1/2021,Phone,Female,432398,10/19/2021,INACTIVE,YES,12/16/2022,India,Meghalaya,1158.611111111111,18,PC/Laptop,3,NetBanking,2
+carlsonwayne,2/15/2015,Phone,Male,432466,6/10/2022,ACTIVE,NO,11/16/2022,India,Meghalaya,938.1818181818181,22,Apple TV,3,NetBanking,2
+rachelharris,8/21/2015,Phone,Female,432503,9/9/2022,INACTIVE,NO,12/12/2022,India,Meghalaya,1573.9333333333334,15,PC/Laptop,3,NetBanking,2
+knightbrian,5/14/2010,Phone,Male,432538,5/9/2022,INACTIVE,NO,11/25/2022,India,Meghalaya,1751.608695652174,23,FireTV,12,Paytm,4
+daniel93,10/17/1992,Phone,Male,432623,1/4/2022,ACTIVE,NO,12/15/2022,India,Meghalaya,975.4375,16,PC/Laptop,3,NetBanking,2
+david95,5/4/1993,Phone,Female,432681,9/24/2022,INACTIVE,YES,12/31/2022,India,Meghalaya,1063.3157894736842,19,PC/Laptop,3,NetBanking,2
+nicholas10,5/10/1992,Phone,Polygender,432808,12/16/2021,INACTIVE,YES,12/13/2022,India,Meghalaya,1050.7857142857142,14,FireTV,3,NetBanking,2
+daughertymichael,12/20/2021,Phone,Male,432907,11/18/2021,INACTIVE,YES,12/9/2022,India,Meghalaya,960.0909090909091,22,PC/Laptop,3,NetBanking,2
+colleen12,2/1/1989,Phone,Female,433066,2/28/2021,INACTIVE,YES,11/14/2022,India,Meghalaya,1547.857142857143,14,FireTV,3,NetBanking,2
+brent19,12/25/2021,Phone,Male,432168,5/10/2022,ACTIVE,NO,11/18/2022,India,Rajasthan,1318.08,25,Android TV,1,Paytm,1
+rhondaking,1/29/1992,Phone,Male,432331,8/22/2022,INACTIVE,YES,12/2/2022,India,Rajasthan,2068.823529411765,17,FireTV,3,NetBanking,2
+michael11,12/22/2021,Phone,Female,432552,7/19/2021,ACTIVE,YES,11/20/2022,India,Rajasthan,1423.4761904761904,21,PC/Laptop,3,NetBanking,2
+yweaver,5/5/1993,Phone,Female,433115,4/15/2021,ACTIVE,NO,11/19/2022,India,Rajasthan,915.6842105263158,19,Android TV,3,NetBanking,2
+fandrews,1/26/1993,Phone,Female,433135,5/21/2022,ACTIVE,YES,11/22/2022,India,Rajasthan,1033.0,12,FireTV,6,NetBanking,3
+williamsmiguel,2/18/2005,Phone,Male,432279,6/9/2022,ACTIVE,YES,12/25/2022,India,Telangana,1908.0666666666666,15,FireTV,3,NetBanking,2
+loganwyatt,1/31/1992,Phone,Male,432617,11/5/2022,ACTIVE,YES,12/23/2022,India,Telangana,1799.3076923076924,13,FireTV,6,NetBanking,3
+amy14,5/3/2002,Phone,Female,432713,11/15/2022,ACTIVE,YES,11/10/2022,India,Telangana,1333.4,20,FireTV,6,NetBanking,3
+joyce87,1/29/2002,Phone,Female,432742,12/13/2021,ACTIVE,YES,12/28/2022,India,Telangana,1455.2857142857142,14,iPhone,3,NetBanking,2
+robert99,12/11/2021,Phone,Female,432783,2/17/2022,INACTIVE,NO,11/16/2022,India,Telangana,2099.5,16,PC/Laptop,6,NetBanking,3
+ylove,8/30/1992,Phone,Male,432876,5/15/2021,ACTIVE,YES,11/17/2022,India,Telangana,1159.25,16,Android Phone,3,NetBanking,2
+scott23,10/2/2006,Phone,Bigender,432931,6/5/2021,INACTIVE,YES,11/12/2022,India,Telangana,1323.095238095238,21,Android TV,6,NetBanking,3
+fisheralexander,9/23/2006,Phone,Female,432951,4/26/2022,ACTIVE,NO,12/30/2022,India,Telangana,895.0526315789474,18,PC/Laptop,12,Paytm,4
+lbaldwin,11/24/2021,Phone,Female,433014,12/22/2021,INACTIVE,NO,12/5/2022,India,Telangana,1386.3333333333333,18,PC/Laptop,12,Paytm,4
+hfrank,12/23/2021,Phone,Male,432260,2/22/2021,ACTIVE,NO,12/27/2022,India,Tamil Nadu,1812.923076923077,13,FireTV,12,Paytm,4
+gabriel48,5/12/2015,Phone,Male,432498,10/13/2022,INACTIVE,NO,11/16/2022,India,Tamil Nadu,778.1333333333333,15,PC/Laptop,6,NetBanking,3
+ronald11,12/10/2021,Phone,Female,432721,11/29/2021,ACTIVE,YES,11/11/2022,India,Tamil Nadu,2123.0,22,FireTV,12,Paytm,4
+gibsondaniel,7/26/2002,Phone,Female,432754,6/18/2021,ACTIVE,NO,12/6/2022,India,Tamil Nadu,1109.5555555555557,18,PC/Laptop,3,NetBanking,2
+fjones,11/19/2021,Phone,Male,433023,7/24/2022,INACTIVE,YES,12/1/2022,India,Tamil Nadu,1223.7333333333333,15,FireTV,3,NetBanking,2
+timothybrown,10/7/1993,Phone,Polygender,433116,3/5/2022,ACTIVE,NO,12/15/2022,India,Tamil Nadu,1575.909090909091,11,Android TV,1,Paytm,1
+johnsonxavier,9/12/2005,Phone,Female,432289,9/22/2022,ACTIVE,NO,12/20/2022,India,Maharashtra,1272.6666666666667,15,FireTV,12,Paytm,4
+martin79,7/1/2002,Phone,Female,432799,12/3/2021,ACTIVE,NO,11/28/2022,India,Maharashtra,1209.409090909091,22,Android TV,12,Paytm,4
+lisa53,9/30/1992,Phone,Female,432861,1/23/2021,ACTIVE,NO,12/21/2022,India,Maharashtra,1367.0625,16,PC/Laptop,12,Paytm,4
+kellypearson,1/10/1992,Phone,Male,432920,8/28/2022,ACTIVE,NO,11/23/2022,India,Maharashtra,1178.3846153846155,13,PC/Laptop,1,Paytm,1
+nicholasdavis,6/16/2006,Phone,Male,432970,1/8/2022,INACTIVE,YES,12/2/2022,India,Maharashtra,1623.4705882352941,17,PC/Laptop,12,Paytm,4
+cassandrahall,6/2/2006,Phone,Bigender,432977,10/13/2021,ACTIVE,YES,12/30/2022,India,Maharashtra,1273.9375,16,PC/Laptop,6,NetBanking,3
+ryanbonilla,9/23/1989,Phone,Male,433040,3/29/2021,INACTIVE,YES,12/13/2022,India,Maharashtra,1357.0526315789473,19,PC/Laptop,6,NetBanking,3
+aodonnell,5/7/2005,Phone,Female,432278,3/26/2022,INACTIVE,NO,12/14/2022,India,Uttarakhand,1564.9166666666667,24,PC/Laptop,12,Paytm,4
+jacobsbryan,5/23/1991,Phone,Female,432638,1/7/2021,INACTIVE,YES,12/4/2022,India,Uttarakhand,1419.4,15,PC/Laptop,6,NetBanking,3
+hhouse,2/25/1992,Phone,Female,433097,3/24/2021,ACTIVE,NO,12/8/2022,India,Uttarakhand,1464.6,15,PC/Laptop,12,Paytm,4
+jacquelinesmith,7/1/1992,Phone,Female,432810,4/6/2021,ACTIVE,YES,11/26/2022,India,West Bengal,1434.2105263157894,19,PC/Laptop,12,Paytm,4
+treeves,12/19/2021,Phone,Non-binary,432837,3/6/2022,INACTIVE,YES,12/7/2022,India,West Bengal,1235.3684210526317,19,PC/Laptop,3,NetBanking,2
+amybarton,11/10/2021,Phone,Male,432990,5/1/2022,ACTIVE,YES,11/21/2022,India,West Bengal,1197.5,18,PC/Laptop,12,Paytm,4
+qprice,11/11/2021,Phone,Male,433000,6/23/2021,INACTIVE,YES,12/20/2022,India,West Bengal,1339.0,19,Android TV,6,NetBanking,3
+edavis,7/12/1992,Phone,Female,433102,2/20/2022,ACTIVE,NO,12/31/2022,India,West Bengal,1474.3809523809523,21,FireTV,3,NetBanking,2
+patricia07,9/22/2001,Phone,Polygender,432231,2/12/2022,INACTIVE,NO,11/18/2022,India,Chhattisgarh,1326.95,20,FireTV,1,Paytm,1
+djones,2/18/2005,Phone,Male,432276,11/12/2021,ACTIVE,YES,12/8/2022,India,Chhattisgarh,1659.842105263158,19,FireTV,12,Paytm,4
+melissajones,4/19/1992,Phone,Polygender,432656,8/19/2021,INACTIVE,YES,11/24/2022,India,Chhattisgarh,1456.7916666666667,24,Android TV,12,Paytm,4
+jerry55,5/8/1989,Phone,Male,433078,8/9/2022,INACTIVE,NO,12/12/2022,India,Chhattisgarh,1784.6,15,PC/Laptop,6,NetBanking,3
+alvaradoregina,2/21/1996,Phone,Female,432160,4/9/2022,ACTIVE,NO,12/16/2022,India,Uttar Pradesh,954.6,15,PC/Laptop,1,Paytm,1
+garrettangela,6/20/1992,Phone,Male,432320,2/4/2022,ACTIVE,NO,12/25/2022,India,Uttar Pradesh,1008.1428571428571,21,FireTV,3,NetBanking,2
+vhines,8/30/1999,Phone,Female,432383,8/24/2021,INACTIVE,NO,12/1/2022,India,Uttar Pradesh,1352.4545454545455,22,PC/Laptop,12,Paytm,4
+brandonhorton,3/18/2015,Phone,Female,432452,8/27/2022,INACTIVE,YES,12/4/2022,India,Uttar Pradesh,1994.6153846153845,13,iPad,1,Paytm,1
+stephensdeanna,10/1/1997,Phone,Male,432563,10/8/2021,INACTIVE,YES,11/24/2022,India,Uttar Pradesh,1584.0,19,FireTV,3,NetBanking,2
+joe60,5/29/1992,Phone,Female,432587,12/12/2021,ACTIVE,YES,12/7/2022,India,Uttar Pradesh,1832.7916666666667,24,FireTV,3,NetBanking,2
+garciajames,6/19/1991,Phone,Male,432633,5/6/2021,INACTIVE,NO,11/17/2022,India,Uttar Pradesh,1295.3684210526317,19,Android TV,6,NetBanking,3
+phamgary,4/27/1992,Phone,Female,432708,11/21/2021,INACTIVE,YES,11/22/2022,India,Uttar Pradesh,731.2631578947369,19,PC/Laptop,1,Paytm,1
+nelsonrichard,5/9/2002,Phone,Male,432765,3/25/2021,INACTIVE,YES,12/24/2022,India,Uttar Pradesh,1335.8823529411766,17,Android Phone,12,Paytm,4
+janicecohen,12/21/2021,Phone,Female,432777,5/6/2021,INACTIVE,NO,12/18/2022,India,Uttar Pradesh,1603.4,15,PC/Laptop,1,Paytm,1
+davidpayne,10/5/1998,Phone,Male,432830,7/29/2021,ACTIVE,NO,12/5/2022,India,Uttar Pradesh,1597.2777777777778,18,PC/Laptop,12,Paytm,4
+nicholas21,5/7/1992,Phone,Male,432879,9/29/2022,ACTIVE,YES,11/25/2022,India,Uttar Pradesh,1043.2272727272727,22,PC/Laptop,3,NetBanking,2
+gutierrezdonna,1/8/2006,Phone,Polygender,432948,3/14/2022,ACTIVE,YES,11/27/2022,India,Uttar Pradesh,1464.607142857143,28,FireTV,6,NetBanking,3
+murrayjoseph,6/17/1989,Phone,Female,433054,10/21/2022,ACTIVE,NO,11/25/2022,India,Uttar Pradesh,1793.625,16,PC/Laptop,3,NetBanking,2
+albertfriedman,4/10/1989,Phone,Male,433075,7/23/2022,INACTIVE,NO,12/1/2022,India,Uttar Pradesh,1746.7142857142858,28,FireTV,6,NetBanking,3
+fordchristian,10/4/1992,Phone,Female,433093,8/15/2022,INACTIVE,NO,12/4/2022,India,Uttar Pradesh,783.1666666666666,12,Android Phone,3,NetBanking,2
+tlee,11/19/2021,Phone,Female,433127,4/29/2021,INACTIVE,YES,11/18/2022,India,Uttar Pradesh,905.4347826086956,23,PC/Laptop,12,Paytm,4
+oleon,6/15/1996,Phone,Male,432170,10/11/2022,ACTIVE,YES,12/29/2022,India,Andhra Pradesh,1779.3333333333333,21,PC/Laptop,6,NetBanking,3
+qstone,11/10/2021,Phone,Female,432207,2/18/2021,ACTIVE,YES,12/18/2022,India,Andhra Pradesh,1173.5333333333333,15,PC/Laptop,12,Paytm,4
+pmills,9/23/2005,Phone,Male,432263,5/3/2022,INACTIVE,YES,11/12/2022,India,Andhra Pradesh,1347.5555555555557,18,PC/Laptop,3,NetBanking,2
+phoward,11/25/2021,Phone,Agender,432280,8/24/2021,ACTIVE,YES,11/23/2022,India,Andhra Pradesh,1412.1153846153845,26,PC/Laptop,12,Paytm,4
+bridgesjacob,2/14/2005,Phone,Female,432302,8/19/2022,INACTIVE,NO,12/22/2022,India,Andhra Pradesh,845.0,21,PC/Laptop,12,Paytm,4
+nathaniel71,3/11/1992,Phone,Agender,432374,6/4/2022,INACTIVE,NO,12/25/2022,India,Andhra Pradesh,1024.7058823529412,17,PC/Laptop,3,NetBanking,2
+susanwoods,2/7/1992,Phone,Female,432434,12/27/2021,ACTIVE,YES,11/25/2022,India,Andhra Pradesh,1757.888888888889,18,FireTV,12,Paytm,4
+jacquelineyoung,6/10/2010,Phone,Female,432545,7/27/2021,ACTIVE,YES,11/26/2022,India,Andhra Pradesh,2162.318181818182,21,FireTV,12,Paytm,4
+thomaswesley,7/10/1997,Phone,Female,432582,3/18/2022,INACTIVE,YES,12/11/2022,India,Andhra Pradesh,986.2352941176471,17,FireTV,1,Paytm,1
+webbbrandon,7/13/1992,Phone,Male,432619,7/6/2022,ACTIVE,YES,11/29/2022,India,Andhra Pradesh,1051.8235294117646,17,PC/Laptop,1,Paytm,1
+rachel83,10/29/1991,Phone,Non-binary,432646,7/29/2021,ACTIVE,YES,12/26/2022,India,Andhra Pradesh,1187.0,12,FireTV,12,Paytm,4
+danfoster,2/28/1991,Phone,Male,432647,3/22/2021,INACTIVE,NO,12/10/2022,India,Andhra Pradesh,1156.0,16,FireTV,3,NetBanking,2
+williamnguyen,2/28/1993,Phone,Female,432666,12/8/2021,INACTIVE,NO,11/8/2022,India,Andhra Pradesh,1212.1,20,Android Phone,12,Paytm,4
+hughesemily,5/27/2006,Phone,Genderfluid,432937,11/27/2021,INACTIVE,YES,12/8/2022,India,Andhra Pradesh,1322.0,19,FireTV,12,Paytm,4
+jennifershah,5/1/1989,Phone,Female,433065,4/18/2021,ACTIVE,YES,12/24/2022,India,Andhra Pradesh,1632.9333333333334,15,PC/Laptop,12,Paytm,4
+owood,7/14/1993,Phone,Male,433119,7/31/2021,ACTIVE,NO,11/9/2022,India,Andhra Pradesh,1425.888888888889,18,PC/Laptop,12,Paytm,4
+ghines,6/18/1993,Phone,Female,433147,4/4/2021,ACTIVE,YES,12/13/2022,India,Andhra Pradesh,1574.611111111111,18,PC/Laptop,3,NetBanking,2
+jennifer66,6/6/1992,Phone,Female,432340,5/18/2021,INACTIVE,NO,12/3/2022,India,Madhya Pradesh,1289.5714285714287,14,FireTV,6,NetBanking,3
+lori14,2/5/1992,Phone,Female,432411,11/18/2022,INACTIVE,NO,11/23/2022,India,Madhya Pradesh,1398.75,16,FireTV,3,NetBanking,2
+ryananderson,9/18/2015,Phone,Male,432457,7/21/2022,ACTIVE,NO,12/11/2022,India,Madhya Pradesh,1432.44,25,FireTV,12,Paytm,4
+uwilliams,6/26/2015,Phone,Male,432480,12/22/2021,INACTIVE,NO,12/7/2022,India,Madhya Pradesh,1243.0,10,FireTV,1,Paytm,1
+williamsbrian,1/3/1998,Phone,Male,432822,5/30/2022,INACTIVE,NO,12/3/2022,India,Madhya Pradesh,1064.590909090909,22,Android TV,12,Paytm,4
+lesteraaron,2/7/1992,Phone,Female,432903,10/11/2021,INACTIVE,NO,12/18/2022,India,Madhya Pradesh,1477.6842105263158,19,FireTV,3,NetBanking,2
+mcdanielamber,1/15/1989,Phone,Female,433005,8/25/2022,INACTIVE,YES,11/25/2022,India,Madhya Pradesh,730.8333333333334,18,FireTV,12,Paytm,4
+robert47,1/28/1989,Phone,Female,433051,7/25/2022,INACTIVE,NO,11/17/2022,India,Madhya Pradesh,1297.2380952380952,21,PC/Laptop,1,Paytm,1
+greendanielle,10/5/2001,Phone,Male,432224,7/28/2022,INACTIVE,YES,12/14/2022,India,Himachal Pradesh,1348.1176470588234,17,PC/Laptop,6,NetBanking,3
+gscott,7/31/1992,Phone,Male,432318,7/20/2021,ACTIVE,NO,12/12/2022,India,Himachal Pradesh,1273.904761904762,21,PC/Laptop,3,NetBanking,2
+rwall,11/8/2021,Phone,Polygender,432477,8/25/2021,INACTIVE,YES,11/18/2022,India,Himachal Pradesh,1791.1052631578948,19,PC/Laptop,12,Paytm,4
+jeandyer,1/29/1993,Phone,Genderqueer,432684,4/10/2021,INACTIVE,NO,12/27/2022,India,Himachal Pradesh,916.7272727272727,22,PC/Laptop,1,Paytm,1
+brendaperez,2/28/1992,Phone,Female,432848,7/17/2021,INACTIVE,YES,12/27/2022,India,Himachal Pradesh,1605.25,16,FireTV,12,Paytm,4
+sierranelson,4/23/1992,Phone,Female,432916,5/4/2022,INACTIVE,YES,12/26/2022,India,Himachal Pradesh,1547.6923076923076,13,PC/Laptop,12,Paytm,4
+cesar01,7/7/1989,Phone,Female,432994,9/18/2021,INACTIVE,NO,12/20/2022,India,Himachal Pradesh,1862.6470588235295,17,PC/Laptop,12,Paytm,4
+hunter25,6/11/2001,Phone,Female,432214,1/6/2022,INACTIVE,YES,11/9/2022,India,Arunachal Pradesh,1456.9411764705883,17,PC/Laptop,12,Paytm,4
+dakotatorres,10/13/1999,Phone,Male,432378,4/25/2022,INACTIVE,NO,11/28/2022,India,Arunachal Pradesh,1236.0,11,FireTV,12,Paytm,4
+james55,11/22/2021,Phone,Male,432449,5/3/2022,ACTIVE,YES,12/7/2022,India,Arunachal Pradesh,1498.4375,16,PC/Laptop,3,NetBanking,2
+cannonshawn,1/10/2015,Phone,Female,432450,2/18/2021,ACTIVE,YES,12/24/2022,India,Arunachal Pradesh,1499.8,20,FireTV,3,NetBanking,2
+sarah01,3/19/2015,Phone,Agender,432455,6/25/2022,ACTIVE,NO,11/9/2022,India,Arunachal Pradesh,1572.5185185185185,26,FireTV,3,NetBanking,2
+makayla19,12/13/2021,Phone,Female,432632,2/24/2022,INACTIVE,YES,11/15/2022,India,Arunachal Pradesh,1924.3333333333333,15,FireTV,3,NetBanking,2
+jacksonanthony,12/31/2021,Phone,Female,432718,9/21/2022,INACTIVE,NO,12/6/2022,India,Arunachal Pradesh,1237.8461538461538,13,iPad,3,NetBanking,2
+susanriley,3/12/2002,Phone,Male,432734,6/8/2021,INACTIVE,YES,12/14/2022,India,Arunachal Pradesh,1243.95,20,PC/Laptop,3,NetBanking,2
+alanholder,6/12/1992,Phone,Genderqueer,432882,1/5/2022,INACTIVE,NO,12/24/2022,India,Arunachal Pradesh,1396.6666666666667,18,Android TV,12,Paytm,4
+pjones,5/5/1994,Telegram,Female,432416,7/25/2021,INACTIVE,NO,11/28/2022,India,Goa,1158.5384615384614,13,FireTV,12,Paytm,4
+heather58,8/22/2015,Telegram,Female,432509,6/29/2021,ACTIVE,NO,11/16/2022,India,Goa,2135.9285714285716,28,FireTV,1,Paytm,1
+chloe31,7/9/1991,Telegram,Female,432639,1/5/2022,INACTIVE,YES,11/20/2022,India,Goa,1137.3333333333333,15,FireTV,6,NetBanking,3
+heatherjackson,6/8/1998,Telegram,Female,432824,9/11/2022,INACTIVE,YES,12/28/2022,India,Goa,1763.2173913043478,23,PC/Laptop,12,Paytm,4
+william66,3/1/1992,Telegram,Male,432873,4/11/2021,ACTIVE,YES,11/12/2022,India,Goa,2246.095238095238,21,FireTV,12,Paytm,4
+steven73,9/30/1996,Telegram,Male,432163,10/18/2022,ACTIVE,NO,12/29/2022,India,Assam,2540.7,20,FireTV,3,NetBanking,2
+aheath,8/6/1992,Telegram,Female,432346,9/1/2022,INACTIVE,YES,11/17/2022,India,Assam,1029.909090909091,22,FireTV,12,Paytm,4
+lcopeland,12/10/2021,Telegram,Female,432584,6/3/2021,INACTIVE,YES,11/19/2022,India,Assam,1475.4285714285713,21,Android Phone,12,Paytm,4
+nicholassmith,9/28/2002,Telegram,Female,432775,3/16/2022,INACTIVE,NO,12/19/2022,India,Assam,1205.0454545454545,22,FireTV,3,NetBanking,2
+barkerdale,8/7/1992,Telegram,Male,432809,1/2/2021,ACTIVE,YES,12/28/2022,India,Assam,1286.0,25,Android Phone,12,Paytm,4
+davidgarrett,7/21/2006,Telegram,Male,432945,10/29/2021,INACTIVE,YES,11/27/2022,India,Assam,670.8421052631579,19,PC/Laptop,12,Paytm,4
+lisa45,11/26/2021,Telegram,Female,433024,1/23/2021,ACTIVE,YES,11/13/2022,India,Assam,1594.4666666666667,15,FireTV,12,Paytm,4
+carolyn06,8/2/2001,Telegram,Male,432213,2/3/2022,INACTIVE,YES,11/17/2022,India,Bihar,1747.1666666666667,18,FireTV,6,NetBanking,3
+hhall,5/28/1992,Telegram,Male,432311,5/14/2021,ACTIVE,YES,11/16/2022,India,Bihar,1056.7272727272727,11,FireTV,6,NetBanking,3
+virginia61,2/12/1999,Telegram,Male,432387,10/20/2022,ACTIVE,NO,11/22/2022,India,Bihar,1472.24,25,FireTV,1,Paytm,1
+kennethchen,8/11/2002,Telegram,Male,432724,8/24/2021,ACTIVE,YES,12/7/2022,India,Bihar,2164.923076923077,13,PC/Laptop,12,Paytm,4
+kreed,12/26/2021,Telegram,Male,432735,11/29/2021,INACTIVE,NO,12/20/2022,India,Bihar,969.1111111111111,27,Android TV,12,Paytm,4
+markhale,7/23/1992,Telegram,Male,432864,5/18/2021,INACTIVE,NO,11/16/2022,India,Bihar,1036.7619047619048,21,PC/Laptop,1,Paytm,1
+nobrien,10/30/1992,Telegram,Male,432896,3/24/2022,ACTIVE,YES,12/16/2022,India,Bihar,1013.8636363636364,22,FireTV,12,Paytm,4
+hollowaymary,9/30/1992,Telegram,Female,432906,9/4/2021,ACTIVE,YES,12/16/2022,India,Bihar,1010.875,22,PC/Laptop,12,Paytm,4
+blanchardjoshua,10/4/1989,Telegram,Male,433006,9/13/2022,ACTIVE,YES,11/10/2022,India,Bihar,1227.6666666666667,24,FireTV,6,NetBanking,3
+esnow,11/22/2021,Telegram,Female,433099,11/29/2022,INACTIVE,YES,11/15/2022,India,Bihar,1210.2857142857142,21,Android TV,3,NetBanking,2
+osmith,2/15/1996,Telegram,Female,432162,11/25/2021,INACTIVE,NO,12/4/2022,India,Kerala,1225.0,19,FireTV,1,Paytm,1
+matthewday,10/30/2001,Telegram,Male,432242,12/7/2021,INACTIVE,YES,11/14/2022,India,Kerala,978.8421052631579,19,FireTV,6,NetBanking,3
+emilythomas,3/26/1992,Telegram,Female,432357,1/20/2022,ACTIVE,NO,12/13/2022,India,Kerala,1562.5,20,iPhone,12,Paytm,4
+coopermadison,8/6/1992,Telegram,Male,432432,9/23/2021,INACTIVE,YES,11/27/2022,India,Kerala,1039.0,14,Apple TV,12,Paytm,4
+mirandawilkerson,7/25/1992,Telegram,Male,432599,7/19/2021,ACTIVE,YES,12/1/2022,India,Kerala,1503.1,20,FireTV,1,Paytm,1
+pamela82,1/25/1991,Telegram,Female,432640,6/24/2022,INACTIVE,NO,11/12/2022,India,Kerala,1783.0833333333333,24,FireTV,1,Paytm,1
+qwhite,4/25/2002,Telegram,Male,432776,5/20/2021,ACTIVE,NO,12/9/2022,India,Kerala,1270.2222222222222,9,FireTV,12,Paytm,4
+xadams,3/29/1992,Telegram,Male,432855,8/31/2021,INACTIVE,NO,12/30/2022,India,Kerala,1810.75,16,PC/Laptop,12,Paytm,4
+clarkthomas,6/11/2006,Telegram,Male,432958,7/15/2022,INACTIVE,NO,12/26/2022,India,Kerala,1091.8947368421052,19,FireTV,1,Paytm,1
+robertfreeman,10/20/1989,Telegram,Male,433009,3/16/2021,ACTIVE,YES,11/24/2022,India,Kerala,1499.3684210526317,19,FireTV,12,Paytm,4
+johnsonmelvin,7/14/2005,Telegram,Female,432295,7/5/2022,INACTIVE,YES,12/13/2022,India,Odisha,557.5,16,PC/Laptop,3,NetBanking,2
+timothylawrence,4/29/2015,Telegram,Female,432476,11/3/2021,ACTIVE,NO,11/28/2022,India,Odisha,1135.6,25,PC/Laptop,12,Paytm,4
+farrelldaniel,6/28/1992,Telegram,Female,432591,5/12/2022,ACTIVE,NO,11/9/2022,India,Odisha,1553.9,20,PC/Laptop,1,Paytm,1
+smithrobert,10/24/1992,Telegram,Male,432657,1/8/2022,INACTIVE,NO,12/25/2022,India,Odisha,1401.75,40,PC/Laptop,12,Paytm,4
+rvargas,7/8/1993,Telegram,Female,432668,12/17/2021,INACTIVE,NO,11/26/2022,India,Odisha,962.0,15,Android Phone,1,Paytm,1
+clarkmichael,4/3/1998,Telegram,Polygender,432831,5/2/2022,INACTIVE,YES,11/24/2022,India,Odisha,1205.9473684210527,19,FireTV,12,Paytm,4
+vincent13,3/16/1992,Telegram,Genderqueer,432858,8/20/2022,ACTIVE,YES,11/17/2022,India,Odisha,1398.2857142857142,21,PC/Laptop,12,Paytm,4
+timothy24,8/5/1989,Telegram,Male,432991,8/23/2022,INACTIVE,YES,11/11/2022,India,Odisha,1588.6666666666667,21,PC/Laptop,1,Paytm,1
+nicolepatton,11/1/1992,Telegram,Male,432171,5/20/2022,ACTIVE,NO,12/1/2022,India,Punjab,1716.111111111111,18,FireTV,1,Paytm,1
+mackalbert,5/18/2001,Telegram,Female,432229,5/1/2021,ACTIVE,YES,12/3/2022,India,Punjab,2095.4736842105262,19,FireTV,12,Paytm,4
+rose31,2/26/1992,Telegram,Female,432404,4/18/2022,INACTIVE,NO,12/28/2022,India,Punjab,1278.4705882352941,17,PC/Laptop,1,Paytm,1
+scottmckee,11/25/2021,Telegram,Female,432431,12/25/2021,INACTIVE,YES,11/12/2022,India,Punjab,1205.4,15,FireTV,6,NetBanking,3
+braykelsey,12/21/2021,Telegram,Female,432548,9/10/2021,ACTIVE,YES,12/29/2022,India,Punjab,1213.125,32,FireTV,12,Paytm,4
+melindawood,12/12/2021,Telegram,Male,432798,7/2/2022,INACTIVE,YES,12/4/2022,India,Punjab,2481.6875,16,PC/Laptop,12,Paytm,4
+yolandascott,7/3/1998,Telegram,Female,432834,2/19/2021,INACTIVE,YES,11/20/2022,India,Punjab,1179.9166666666667,24,iPad,3,NetBanking,2
+tanya06,8/17/1992,Telegram,Female,432900,10/29/2022,ACTIVE,YES,12/8/2022,India,Punjab,1515.4736842105262,19,Android Phone,12,Paytm,4
+reevesantonio,4/23/1992,Telegram,Female,432919,7/2/2022,ACTIVE,YES,12/17/2022,India,Punjab,1392.1904761904761,21,FireTV,12,Paytm,4
+ptaylor,12/1/2021,Telegram,Male,433033,10/10/2022,ACTIVE,YES,12/17/2022,India,Punjab,1298.8095238095239,21,FireTV,1,Paytm,1
+emilyclark,5/13/1996,Telegram,Female,432167,11/30/2021,ACTIVE,YES,11/21/2022,India,Sikkim,1280.7142857142858,14,Android Phone,12,Paytm,4
+wilsonjames,6/13/2005,Telegram,Male,432285,12/10/2021,INACTIVE,YES,12/25/2022,India,Sikkim,856.7647058823529,17,PC/Laptop,3,NetBanking,2
+gerald40,7/14/2005,Telegram,Female,432299,2/22/2021,ACTIVE,YES,11/14/2022,India,Sikkim,1191.7333333333333,15,PC/Laptop,3,NetBanking,2
+lauramoore,5/17/1994,Telegram,Polygender,432413,3/21/2022,INACTIVE,NO,11/20/2022,India,Sikkim,1427.2,20,FireTV,6,NetBanking,3
+johnsonjaclyn,7/2/1997,Telegram,Male,432568,3/20/2022,ACTIVE,NO,11/15/2022,India,Sikkim,1832.56,25,PC/Laptop,3,NetBanking,2
+danielwelch,12/20/2021,Telegram,Female,432649,8/30/2021,INACTIVE,NO,12/4/2022,India,Sikkim,1417.2142857142858,14,PC/Laptop,1,Paytm,1
+gburke,2/4/1993,Telegram,Male,432687,5/18/2021,ACTIVE,NO,12/25/2022,India,Sikkim,1553.8,20,FireTV,3,NetBanking,2
+yeverett,11/22/2021,Telegram,Female,432880,8/18/2021,ACTIVE,YES,11/11/2022,India,Sikkim,1295.0,15,PC/Laptop,12,Paytm,4
+kim12,11/11/2021,Telegram,Female,432174,4/27/2021,ACTIVE,YES,11/24/2022,India,Gujarat,1123.5,8,FireTV,3,NetBanking,2
+jamesthompson,12/4/2021,Telegram,Male,432458,3/26/2021,ACTIVE,NO,12/31/2022,India,Gujarat,1045.95,20,FireTV,12,Paytm,4
+moorejames,7/18/2015,Telegram,Male,432510,8/5/2021,ACTIVE,YES,12/21/2022,India,Gujarat,726.8333333333334,18,PC/Laptop,12,Paytm,4
+kellyjoseph,8/3/1997,Telegram,Female,432556,2/24/2022,INACTIVE,NO,12/12/2022,India,Gujarat,1197.6470588235295,17,Android Phone,12,Paytm,4
+zthompson,8/3/1992,Telegram,Female,432602,6/18/2022,ACTIVE,NO,12/7/2022,India,Gujarat,922.9565217391304,23,FireTV,6,NetBanking,3
+awilliams,8/27/1993,Telegram,Female,433142,11/1/2021,ACTIVE,NO,12/28/2022,India,Gujarat,675.8461538461538,13,PC/Laptop,1,Paytm,1
+rodneymunoz,2/18/2001,Telegram,Male,432219,7/14/2021,INACTIVE,YES,11/10/2022,India,Haryana,985.9565217391304,23,FireTV,3,NetBanking,2
+thompsonjessica,6/5/1992,Telegram,Female,432321,7/4/2022,INACTIVE,YES,12/23/2022,India,Haryana,1123.0,15,PC/Laptop,12,Paytm,4
+sheryl16,3/9/1993,Telegram,Female,432699,7/26/2022,INACTIVE,YES,12/30/2022,India,Haryana,1611.7857142857142,14,iPad,6,NetBanking,3
+xmoore,8/6/2006,Telegram,Female,432947,3/5/2022,INACTIVE,YES,11/10/2022,India,Haryana,1399.2608695652175,23,PC/Laptop,6,NetBanking,3
+derek00,12/26/2021,Telegram,Male,433048,1/20/2022,ACTIVE,YES,12/22/2022,India,Haryana,1638.0588235294117,17,PC/Laptop,6,NetBanking,3
+sheilasmith,10/9/1992,Telegram,Male,432356,9/19/2022,ACTIVE,NO,11/24/2022,India,Manipur,1279.7619047619048,21,Android Phone,3,NetBanking,2
+qgoodman,3/19/1999,Telegram,Female,432379,2/9/2021,INACTIVE,NO,11/12/2022,India,Manipur,1600.2777777777778,18,PC/Laptop,1,Paytm,1
+william23,3/21/2010,Telegram,Male,432533,9/10/2022,INACTIVE,YES,12/9/2022,India,Manipur,1096.75,24,PC/Laptop,12,Paytm,4
+oingram,2/21/1991,Telegram,Polygender,432652,10/18/2022,INACTIVE,YES,12/3/2022,India,Manipur,1234.0,12,Android Phone,12,Paytm,4
+davidkane,12/8/2021,Telegram,Male,432658,12/1/2021,INACTIVE,YES,12/10/2022,India,Manipur,1529.6470588235295,17,FireTV,3,NetBanking,2
+thomasclark,12/18/2021,Telegram,Male,432663,4/24/2021,ACTIVE,NO,12/22/2022,India,Manipur,1523.2,15,Android TV,1,Paytm,1
+samuelharris,1/3/2002,Telegram,Female,432723,5/10/2021,INACTIVE,NO,12/31/2022,India,Manipur,1201.1818181818182,22,PC/Laptop,6,NetBanking,3
+robinbridges,12/27/2021,Telegram,Male,432867,10/4/2021,INACTIVE,YES,11/13/2022,India,Manipur,1424.5652173913043,23,FireTV,6,NetBanking,3
+jackie83,7/12/1992,Telegram,Male,432897,2/16/2021,ACTIVE,NO,11/26/2022,India,Manipur,985.4444444444445,18,Android Phone,6,NetBanking,3
+zwilliams,5/14/1989,Telegram,Female,433045,10/28/2021,INACTIVE,YES,12/13/2022,India,Manipur,2071.6666666666665,17,FireTV,12,Paytm,4
+mwest,9/15/1989,Telegram,Male,433079,3/5/2021,ACTIVE,NO,12/24/2022,India,Manipur,1580.3,10,PC/Laptop,12,Paytm,4
+bensonangela,3/22/1992,Telegram,Female,433155,2/26/2022,ACTIVE,NO,12/31/2022,India,Manipur,1168.9333333333334,15,FireTV,12,Paytm,4
+heather64,1/25/2000,Telegram,Male,432208,7/22/2022,INACTIVE,NO,12/11/2022,India,Mizoram,1489.0,18,FireTV,6,NetBanking,3
+kduncan,1/9/2005,Telegram,Female,432290,8/28/2022,INACTIVE,YES,12/16/2022,India,Mizoram,1384.7272727272727,22,Android Phone,1,Paytm,1
+gilbertjohns,4/15/1992,Telegram,Male,432343,11/5/2022,INACTIVE,YES,11/23/2022,India,Mizoram,962.65,20,iPhone,12,Paytm,4
+williamsmichael,7/16/1992,Telegram,Male,432593,5/3/2022,ACTIVE,YES,12/23/2022,India,Mizoram,902.7272727272727,22,PC/Laptop,12,Paytm,4
+whester,1/29/2002,Telegram,Male,432719,4/29/2022,ACTIVE,YES,12/8/2022,India,Mizoram,774.1578947368421,19,PC/Laptop,3,NetBanking,2
+amy95,10/19/1989,Telegram,Male,433047,8/30/2022,INACTIVE,NO,11/29/2022,India,Mizoram,1195.9285714285713,14,PC/Laptop,3,NetBanking,2
+zunigajason,10/31/2005,Telegram,Female,432303,2/18/2022,ACTIVE,YES,12/24/2022,India,Tripura,975.6875,16,FireTV,1,Paytm,1
+webbemily,11/11/2021,Telegram,Non-binary,432364,5/8/2022,INACTIVE,NO,12/14/2022,India,Tripura,788.7142857142857,14,iPhone,1,Paytm,1
+garyjones,11/26/2021,Telegram,Female,432388,7/3/2021,INACTIVE,NO,12/6/2022,India,Tripura,1316.4545454545455,22,PC/Laptop,12,Paytm,4
+jack46,9/28/1997,Telegram,Bigender,432577,11/14/2022,INACTIVE,YES,11/10/2022,India,Tripura,932.7,10,PC/Laptop,3,NetBanking,2
+felicia81,11/25/2021,Telegram,Male,432773,6/26/2021,INACTIVE,NO,12/20/2022,India,Tripura,563.0909090909091,11,PC/Laptop,3,NetBanking,2
+kchapman,4/8/2002,Telegram,Male,432791,6/26/2021,ACTIVE,YES,11/11/2022,India,Tripura,983.0,16,Android Phone,12,Paytm,4
+joshuadalton,6/12/2006,Telegram,Female,432978,4/17/2021,INACTIVE,YES,12/17/2022,India,Tripura,1708.5,18,Android Phone,3,NetBanking,2
+derekmoss,9/30/2000,Telegram,Male,432211,11/12/2021,INACTIVE,NO,12/2/2022,India,Nagaland,1297.35,20,FireTV,12,Paytm,4
+george34,5/15/1992,Telegram,Genderqueer,432358,3/21/2021,INACTIVE,YES,11/15/2022,India,Nagaland,1386.8823529411766,17,PC/Laptop,1,Paytm,1
+milestammie,2/6/1991,Telegram,Male,432631,11/16/2022,ACTIVE,NO,12/5/2022,India,Nagaland,922.1764705882352,17,Android TV,12,Paytm,4
+mbutler,3/23/2006,Telegram,Female,432965,11/30/2021,INACTIVE,YES,11/21/2022,India,Nagaland,1407.3181818181818,22,PC/Laptop,6,NetBanking,3
+brianna68,12/23/2021,Telegram,Male,433072,2/8/2022,ACTIVE,YES,11/16/2022,India,Nagaland,1559.6,19,Android TV,12,Paytm,4
+alexawolfe,4/30/1999,Telegram,Male,432381,1/22/2021,ACTIVE,NO,11/25/2022,India,Jharkhand,1245.8636363636363,22,FireTV,3,NetBanking,2
+riverashannon,5/1/2015,Telegram,Female,432519,7/21/2021,INACTIVE,YES,11/26/2022,India,Jharkhand,1863.2,20,FireTV,12,Paytm,4
+katherine84,6/2/2002,Telegram,Agender,432785,5/19/2021,INACTIVE,NO,11/22/2022,India,Jharkhand,1127.5833333333333,24,PC/Laptop,1,Paytm,1
+tmiller,12/25/2021,Telegram,Male,433029,12/19/2021,INACTIVE,YES,11/8/2022,India,Jharkhand,822.7,10,PC/Laptop,3,NetBanking,2
+sandra73,5/20/2005,Telegram,Female,432258,2/25/2021,ACTIVE,NO,11/21/2022,India,Karnataka,1910.125,24,PC/Laptop,3,NetBanking,2
+mccartyedward,10/3/1992,Telegram,Female,432438,3/10/2021,ACTIVE,YES,12/6/2022,India,Karnataka,1022.7307692307693,26,FireTV,6,NetBanking,3
+rhondaanderson,7/15/1992,Telegram,Male,432444,2/16/2022,ACTIVE,NO,11/20/2022,India,Karnataka,1984.75,12,FireTV,12,Paytm,4
+adamsjennifer,2/23/2015,Telegram,Female,432474,8/22/2022,INACTIVE,YES,12/10/2022,India,Karnataka,973.7222222222222,18,PC/Laptop,3,NetBanking,2
+hdelgado,4/30/1992,Telegram,Genderqueer,432611,2/3/2021,ACTIVE,NO,11/10/2022,India,Karnataka,1275.0,20,Android Phone,6,NetBanking,3
+banderson,6/5/2002,Telegram,Male,432751,9/18/2022,INACTIVE,YES,12/29/2022,India,Karnataka,1012.32,25,FireTV,3,NetBanking,2
+emilyjenkins,9/27/2002,Telegram,Female,432755,7/28/2021,ACTIVE,YES,12/4/2022,India,Karnataka,1398.9166666666667,24,PC/Laptop,3,NetBanking,2
+jacqueline49,11/25/2021,Telegram,Male,432237,11/24/2022,INACTIVE,YES,11/17/2022,India,Meghalaya,1134.2,15,FireTV,1,Paytm,1
+wgriffin,9/1/1999,Telegram,Non-binary,432393,8/16/2021,INACTIVE,YES,12/9/2022,India,Meghalaya,1066.75,16,FireTV,12,Paytm,4
+sarah18,1/30/2015,Telegram,Male,432497,5/10/2021,INACTIVE,YES,12/6/2022,India,Meghalaya,483.0,4,Android TV,3,NetBanking,2
+deanrichards,8/14/2010,Telegram,Male,432524,9/26/2022,ACTIVE,YES,11/25/2022,India,Meghalaya,1238.5625,16,iPhone,3,NetBanking,2
+smathis,2/23/2010,Telegram,Male,432547,9/1/2022,ACTIVE,NO,11/15/2022,India,Meghalaya,1109.0526315789473,19,iPhone,6,NetBanking,3
+ydavenport,4/3/1992,Telegram,Male,432613,5/30/2021,ACTIVE,YES,12/13/2022,India,Meghalaya,1176.7222222222222,18,PC/Laptop,12,Paytm,4
+patrickbuckley,3/10/1993,Telegram,Female,432676,7/13/2021,ACTIVE,NO,11/25/2022,India,Meghalaya,852.7058823529412,17,FireTV,12,Paytm,4
+zwheeler,9/16/1992,Telegram,Male,432704,11/11/2022,ACTIVE,NO,12/22/2022,India,Meghalaya,1475.5,14,FireTV,12,Paytm,4
+johnsontracy,2/27/1992,Telegram,Male,432883,2/25/2022,ACTIVE,YES,11/26/2022,India,Meghalaya,1201.7,10,FireTV,6,NetBanking,3
+jessicataylor,9/1/2006,Telegram,Male,432943,10/10/2021,INACTIVE,NO,11/18/2022,India,Meghalaya,1681.1052631578948,19,FireTV,1,Paytm,1
+johnclark,10/6/2006,Telegram,Male,432944,9/13/2021,INACTIVE,NO,11/13/2022,India,Meghalaya,1377.7,20,FireTV,3,NetBanking,2
+burtonbrian,6/28/1989,Telegram,Female,433017,7/21/2022,INACTIVE,NO,11/30/2022,India,Meghalaya,1015.125,16,FireTV,12,Paytm,4
+xturner,7/16/1989,Telegram,Polygender,433068,6/19/2022,INACTIVE,NO,11/22/2022,India,Meghalaya,1173.4,20,PC/Laptop,12,Paytm,4
+rmiller,6/29/1992,Telegram,Female,433087,1/6/2021,ACTIVE,YES,12/15/2022,India,Meghalaya,1117.5714285714287,14,Android TV,1,Paytm,1
+reynoldsjohn,4/23/1993,Telegram,Female,433108,1/27/2021,ACTIVE,NO,12/20/2022,India,Meghalaya,1607.0,17,Android TV,12,Paytm,4
+xaguilar,12/30/2021,Telegram,Female,433117,1/8/2021,ACTIVE,NO,12/9/2022,India,Meghalaya,1258.0,18,Android Phone,6,NetBanking,3
+gillkathleen,9/8/2001,Telegram,Female,432245,10/19/2021,INACTIVE,YES,12/23/2022,India,Rajasthan,1534.388888888889,18,PC/Laptop,3,NetBanking,2
+usmith,2/16/2005,Telegram,Male,432268,6/24/2021,INACTIVE,YES,11/29/2022,India,Rajasthan,810.7222222222222,17,PC/Laptop,1,Paytm,1
+shannon88,9/15/2010,Telegram,Female,432535,2/21/2022,ACTIVE,NO,11/13/2022,India,Rajasthan,980.0625,16,PC/Laptop,12,Paytm,4
+millerkathryn,6/9/1997,Telegram,Male,432583,10/24/2022,INACTIVE,YES,12/7/2022,India,Rajasthan,1470.6666666666667,18,PC/Laptop,3,NetBanking,2
+sean13,11/7/2002,Telegram,Female,432786,7/26/2021,ACTIVE,NO,12/15/2022,India,Rajasthan,1046.875,24,FireTV,3,NetBanking,2
+kingerin,6/12/1998,Telegram,Genderfluid,432829,12/8/2021,ACTIVE,YES,11/11/2022,India,Rajasthan,962.4,15,PC/Laptop,1,Paytm,1
+michael87,12/30/2021,Telegram,Male,432898,9/26/2021,ACTIVE,NO,11/27/2022,India,Rajasthan,2062.75,16,PC/Laptop,12,Paytm,4
+castromichael,7/20/1993,Telegram,Male,433130,5/11/2022,ACTIVE,YES,11/25/2022,India,Rajasthan,1555.5384615384614,13,Android TV,3,NetBanking,2
+alexapearson,7/25/1992,Telegram,Male,432178,5/27/2022,INACTIVE,NO,11/17/2022,India,Telangana,1265.5882352941176,17,PC/Laptop,3,NetBanking,2
+christopherfuller,7/27/2005,Telegram,Male,432262,11/22/2021,ACTIVE,NO,12/27/2022,India,Telangana,1485.2173913043478,23,PC/Laptop,6,NetBanking,3
+fross,2/19/2005,Telegram,Male,432298,9/30/2021,ACTIVE,YES,12/3/2022,India,Telangana,1229.7272727272727,11,Android Phone,12,Paytm,4
+terri88,8/10/1992,Telegram,Male,432365,1/5/2021,INACTIVE,NO,12/11/2022,India,Telangana,873.5333333333333,15,PC/Laptop,1,Paytm,1
+leeyoung,9/12/1992,Telegram,Non-binary,432441,10/18/2021,INACTIVE,NO,12/6/2022,India,Telangana,935.25,20,PC/Laptop,3,NetBanking,2
+eharris,1/3/2015,Telegram,Female,432506,5/31/2021,INACTIVE,YES,11/21/2022,India,Telangana,1207.0,18,FireTV,1,Paytm,1
+dean88,10/16/1997,Telegram,Male,432576,5/6/2021,ACTIVE,NO,12/25/2022,India,Telangana,1207.909090909091,22,PC/Laptop,12,Paytm,4
+jacqueline44,10/15/1991,Telegram,Female,432634,1/23/2022,ACTIVE,NO,12/22/2022,India,Telangana,1312.142857142857,14,PC/Laptop,6,NetBanking,3
+blakewilliam,1/18/2002,Telegram,Genderqueer,432789,3/6/2021,ACTIVE,NO,12/10/2022,India,Telangana,1549.2692307692307,26,PC/Laptop,12,Paytm,4
+gravesmelissa,1/16/1992,Telegram,Genderfluid,432851,8/14/2021,ACTIVE,YES,12/31/2022,India,Telangana,1134.7692307692307,13,iPhone,12,Paytm,4
+xhartman,6/14/1992,Telegram,Female,432888,5/30/2022,ACTIVE,NO,12/12/2022,India,Telangana,1105.8461538461538,13,FireTV,6,NetBanking,3
+amandaphelps,7/13/1989,Telegram,Male,433046,8/18/2022,ACTIVE,NO,12/3/2022,India,Telangana,1360.4117647058824,17,FireTV,1,Paytm,1
+justin83,7/24/2001,Telegram,Female,432230,2/15/2022,INACTIVE,YES,12/9/2022,India,Tamil Nadu,1328.75,20,FireTV,1,Paytm,1
+hallbrian,1/15/2005,Telegram,Male,432301,9/9/2021,ACTIVE,NO,12/3/2022,India,Tamil Nadu,1174.4285714285713,14,FireTV,12,Paytm,4
+sherry44,7/7/1992,Telegram,Female,432310,6/27/2022,ACTIVE,NO,11/25/2022,India,Tamil Nadu,1762.0,21,FireTV,3,NetBanking,2
+ericksonalan,8/2/1992,Telegram,Male,432359,6/8/2022,INACTIVE,YES,12/4/2022,India,Tamil Nadu,1431.0,22,PC/Laptop,3,NetBanking,2
+pattersontyler,12/30/2021,Telegram,Male,432603,5/12/2022,INACTIVE,YES,12/8/2022,India,Tamil Nadu,910.5555555555555,18,FireTV,1,Paytm,1
+louispeterson,9/29/1991,Telegram,Female,432628,5/8/2022,INACTIVE,YES,12/23/2022,India,Tamil Nadu,1828.125,16,Android TV,12,Paytm,4
+smithamber,12/26/2021,Telegram,Male,432679,4/19/2021,ACTIVE,NO,12/26/2022,India,Tamil Nadu,1097.4285714285713,21,FireTV,3,NetBanking,2
+alison85,5/20/1993,Telegram,Female,432682,12/19/2021,ACTIVE,YES,11/11/2022,India,Tamil Nadu,1589.6,20,PC/Laptop,3,NetBanking,2
+cfisher,1/31/2002,Telegram,Female,432712,8/13/2021,ACTIVE,YES,12/18/2022,India,Tamil Nadu,938.2727272727273,22,PC/Laptop,1,Paytm,1
+jessica61,10/1/2002,Telegram,Female,432769,6/23/2022,INACTIVE,NO,11/8/2022,India,Tamil Nadu,1251.8125,16,Android Phone,12,Paytm,4
+hillclinton,8/17/2002,Telegram,Female,432794,6/14/2021,INACTIVE,YES,11/24/2022,India,Tamil Nadu,1236.4285714285713,14,PC/Laptop,12,Paytm,4
+wnguyen,8/19/1989,Telegram,Female,433019,10/29/2021,INACTIVE,YES,12/11/2022,India,Tamil Nadu,1595.9285714285713,14,Android Phone,6,NetBanking,3
+sfoster,11/21/2021,Telegram,Male,433043,10/8/2021,INACTIVE,NO,11/11/2022,India,Tamil Nadu,1373.8235294117646,17,PC/Laptop,3,NetBanking,2
+ujames,5/4/1992,Telegram,Female,432406,7/23/2021,ACTIVE,YES,12/3/2022,India,Maharashtra,1199.076923076923,13,FireTV,12,Paytm,4
+parker98,7/6/2015,Telegram,Female,432473,11/27/2022,INACTIVE,YES,11/19/2022,India,Maharashtra,1596.52,25,FireTV,3,NetBanking,2
+christianpitts,6/16/1992,Telegram,Female,432614,4/1/2022,INACTIVE,YES,12/30/2022,India,Maharashtra,1617.5882352941176,17,PC/Laptop,3,NetBanking,2
+mcintoshjennifer,12/17/2021,Telegram,Female,432743,10/18/2022,INACTIVE,YES,12/2/2022,India,Maharashtra,1105.75,20,FireTV,12,Paytm,4
+rodriguezbradley,6/26/1998,Telegram,Female,432817,8/10/2021,ACTIVE,YES,11/10/2022,India,Maharashtra,1658.0625,16,PC/Laptop,12,Paytm,4
+abond,8/13/1989,Telegram,Female,433003,5/27/2022,INACTIVE,YES,12/3/2022,India,Maharashtra,1696.642857142857,14,PC/Laptop,3,NetBanking,2
+devincole,6/9/1989,Telegram,Male,433010,7/14/2021,ACTIVE,NO,11/15/2022,India,Maharashtra,1237.2,15,FireTV,12,Paytm,4
+brian47,6/25/2005,Telegram,Female,432255,7/14/2021,ACTIVE,NO,11/22/2022,India,Uttarakhand,1078.9411764705883,17,FireTV,1,Paytm,1
+ezavala,3/26/1992,Telegram,Female,432407,8/10/2021,INACTIVE,YES,12/23/2022,India,Uttarakhand,1696.625,24,PC/Laptop,3,NetBanking,2
+kdixon,11/12/2021,Telegram,Female,432517,9/26/2022,INACTIVE,NO,12/10/2022,India,Uttarakhand,1673.4666666666667,15,Android Phone,12,Paytm,4
+kathylewis,2/22/1997,Telegram,Male,432559,4/22/2021,ACTIVE,NO,11/14/2022,India,Uttarakhand,817.4285714285714,21,PC/Laptop,6,NetBanking,3
+colleenhubbard,1/27/2006,Telegram,Female,432932,5/25/2022,INACTIVE,NO,12/15/2022,India,Uttarakhand,719.4285714285714,21,Android TV,6,NetBanking,3
+danielsharp,6/16/2001,Telegram,Female,432223,2/3/2022,ACTIVE,NO,11/30/2022,India,West Bengal,1275.6666666666667,18,FireTV,6,NetBanking,3
+alexisharris,9/6/2005,Telegram,Male,432272,6/22/2021,ACTIVE,YES,11/17/2022,India,West Bengal,1359.0666666666666,15,FireTV,12,Paytm,4
+douglas23,4/12/1999,Telegram,Male,432395,8/14/2022,INACTIVE,NO,11/10/2022,India,West Bengal,1039.3636363636363,11,PC/Laptop,3,NetBanking,2
+beasleystephen,6/11/2015,Telegram,Female,432475,3/23/2022,INACTIVE,YES,12/14/2022,India,West Bengal,1242.4705882352941,17,PC/Laptop,6,NetBanking,3
+joshua59,11/16/2021,Telegram,Female,432726,9/21/2022,ACTIVE,NO,12/10/2022,India,West Bengal,788.4375,16,PC/Laptop,12,Paytm,4
+jfrazier,7/26/1989,Telegram,Male,432998,3/11/2021,INACTIVE,NO,11/30/2022,India,West Bengal,1045.3333333333333,18,FireTV,6,NetBanking,3
+elizabethlopez,3/17/1989,Telegram,Female,433069,5/24/2022,ACTIVE,NO,11/15/2022,India,West Bengal,1692.6315789473683,19,FireTV,6,NetBanking,3
+veronica91,8/26/1992,Telegram,Male,433153,7/20/2021,ACTIVE,YES,12/14/2022,India,West Bengal,806.6086956521739,23,PC/Laptop,3,NetBanking,2
+drobertson,5/31/2001,Telegram,Male,432235,6/27/2022,INACTIVE,NO,12/15/2022,India,Chhattisgarh,1270.157894736842,19,PC/Laptop,1,Paytm,1
+pollardbenjamin,11/14/2021,Telegram,Male,432264,6/25/2022,ACTIVE,NO,12/31/2022,India,Chhattisgarh,1698.5263157894738,19,iPad,6,NetBanking,3
+grayhenry,9/5/1992,Telegram,Female,432355,11/23/2022,INACTIVE,NO,12/22/2022,India,Chhattisgarh,1623.1875,16,Android Phone,3,NetBanking,2
+christianjohnson,6/14/2015,Telegram,Male,432464,1/30/2022,ACTIVE,YES,12/20/2022,India,Chhattisgarh,971.375,16,PC/Laptop,12,Paytm,4
+michael97,4/3/2015,Telegram,Female,432487,9/13/2022,INACTIVE,YES,11/14/2022,India,Chhattisgarh,1033.3333333333333,42,PC/Laptop,6,NetBanking,3
+madisonjohnson,2/1/1997,Telegram,Male,432572,3/5/2022,ACTIVE,YES,12/11/2022,India,Chhattisgarh,918.3333333333334,9,FireTV,3,NetBanking,2
+johnellison,4/26/1992,Telegram,Male,432856,4/17/2022,ACTIVE,YES,11/18/2022,India,Chhattisgarh,1010.3,10,PC/Laptop,3,NetBanking,2
+stephaniesmith,8/26/1989,Telegram,Male,433036,9/18/2021,ACTIVE,YES,11/16/2022,India,Chhattisgarh,1121.6666666666667,12,PC/Laptop,12,Paytm,4
+cduncan,1/31/2001,Telegram,Male,432240,3/25/2022,ACTIVE,YES,12/12/2022,India,Uttar Pradesh,1193.7,20,Apple TV,12,Paytm,4
+bianca87,8/29/2015,Telegram,Male,432461,6/14/2021,INACTIVE,NO,11/30/2022,India,Uttar Pradesh,1509.3333333333333,15,FireTV,12,Paytm,4
+oliverwillie,11/3/1992,Telegram,Male,432589,12/15/2021,ACTIVE,NO,12/8/2022,India,Uttar Pradesh,777.4347826086956,23,FireTV,3,NetBanking,2
+elizabeth50,3/19/1992,Telegram,Female,432857,9/4/2022,INACTIVE,NO,12/16/2022,India,Uttar Pradesh,739.375,16,FireTV,3,NetBanking,2
+lorihernandez,8/6/1992,Telegram,Female,432886,2/25/2022,INACTIVE,NO,11/30/2022,India,Uttar Pradesh,2487.235294117647,17,Android Phone,1,Paytm,1
+alexander80,6/30/1993,Telegram,Male,433126,5/3/2022,ACTIVE,NO,12/24/2022,India,Uttar Pradesh,1215.3846153846155,13,FireTV,12,Paytm,4
+rroberts,10/6/2000,Telegram,Male,432202,2/7/2022,INACTIVE,YES,12/1/2022,India,Andhra Pradesh,800.1666666666666,24,FireTV,3,NetBanking,2
+victor93,12/7/2021,Telegram,Male,432233,2/10/2022,ACTIVE,YES,12/9/2022,India,Andhra Pradesh,856.2777777777778,18,PC/Laptop,6,NetBanking,3
+ugonzales,3/25/1991,Telegram,Female,432635,5/28/2021,INACTIVE,NO,11/28/2022,India,Andhra Pradesh,1170.6666666666667,12,Apple TV,12,Paytm,4
+amywilliams,12/10/2021,Telegram,Female,432680,7/5/2022,INACTIVE,YES,11/30/2022,India,Andhra Pradesh,985.9166666666666,12,iPhone,3,NetBanking,2
+adamsmatthew,10/15/1989,Telegram,Female,433007,9/8/2022,INACTIVE,YES,11/23/2022,India,Andhra Pradesh,1164.0,14,PC/Laptop,6,NetBanking,3
+ebauer,7/1/1989,Telegram,Female,433011,10/21/2022,INACTIVE,YES,11/21/2022,India,Andhra Pradesh,1218.1052631578948,19,FireTV,12,Paytm,4
+ychambers,8/30/1993,Telegram,Male,433129,10/15/2021,ACTIVE,YES,12/27/2022,India,Andhra Pradesh,1009.3684210526316,19,FireTV,12,Paytm,4
+ericksonvictoria,6/19/2001,Telegram,Male,432248,6/27/2022,INACTIVE,NO,12/25/2022,India,Madhya Pradesh,1589.642857142857,14,Android Phone,12,Paytm,4
+darrellcooke,1/27/2005,Telegram,Female,432287,8/22/2021,ACTIVE,NO,12/22/2022,India,Madhya Pradesh,1351.4705882352941,17,PC/Laptop,3,NetBanking,2
+louiscoleman,7/3/1997,Telegram,Female,432581,4/10/2022,ACTIVE,YES,12/2/2022,India,Madhya Pradesh,942.5714285714286,21,FireTV,12,Paytm,4
+sanchezlawrence,12/7/2021,Telegram,Male,432685,1/21/2022,ACTIVE,NO,12/2/2022,India,Madhya Pradesh,860.6,15,FireTV,3,NetBanking,2
+owenkristi,10/23/1992,Telegram,Male,432850,7/11/2022,INACTIVE,NO,11/10/2022,India,Madhya Pradesh,1714.7692307692307,13,Android Phone,3,NetBanking,2
+jessicajohnson,9/14/2006,Telegram,Female,432922,11/2/2022,ACTIVE,NO,12/24/2022,India,Madhya Pradesh,1423.75,24,Android TV,3,NetBanking,2
+qberry,12/7/2021,Telegram,Male,432975,1/26/2021,INACTIVE,YES,11/20/2022,India,Madhya Pradesh,1769.7333333333333,15,FireTV,12,Paytm,4
+rodriguezamy,8/1/1992,Telegram,Male,433103,5/30/2022,INACTIVE,NO,11/13/2022,India,Madhya Pradesh,1001.25,20,FireTV,3,NetBanking,2
+hannahwilliams,4/7/2001,Telegram,Bigender,432228,12/19/2021,INACTIVE,NO,12/5/2022,India,Himachal Pradesh,1414.6666666666667,21,Android TV,3,NetBanking,2
+sara00,12/27/2021,Telegram,Female,432247,3/8/2022,INACTIVE,NO,12/31/2022,India,Himachal Pradesh,1780.0714285714287,14,FireTV,3,NetBanking,2
+gglover,4/8/1992,Telegram,Female,432338,6/20/2021,INACTIVE,NO,12/13/2022,India,Himachal Pradesh,1430.5,22,FireTV,6,NetBanking,3
+hwilson,2/28/1999,Telegram,Female,432397,8/11/2022,INACTIVE,YES,12/24/2022,India,Himachal Pradesh,1383.4705882352941,17,PC/Laptop,6,NetBanking,3
+hamiltonhunter,5/27/2015,Telegram,Male,432504,3/25/2021,INACTIVE,NO,12/6/2022,India,Himachal Pradesh,613.1904761904761,21,FireTV,3,NetBanking,2
+fbridges,1/26/2015,Telegram,Female,432515,4/3/2022,INACTIVE,YES,11/29/2022,India,Himachal Pradesh,1536.608695652174,23,PC/Laptop,3,NetBanking,2
+mcdanielalisha,5/24/2010,Telegram,Male,432550,9/5/2021,INACTIVE,YES,11/15/2022,India,Himachal Pradesh,1298.8695652173913,23,FireTV,12,Paytm,4
+emosley,10/17/1993,Telegram,Female,432674,8/19/2021,INACTIVE,YES,12/5/2022,India,Himachal Pradesh,795.56,25,FireTV,6,NetBanking,3
+jermainewallace,6/28/1993,Telegram,Non-binary,432678,6/8/2021,ACTIVE,NO,11/28/2022,India,Himachal Pradesh,1640.95,20,FireTV,12,Paytm,4
+qmccall,1/4/1992,Telegram,Male,432706,1/25/2021,ACTIVE,YES,11/21/2022,India,Himachal Pradesh,1260.7,20,Android Phone,3,NetBanking,2
+kevin32,3/13/1998,Telegram,Agender,432838,7/28/2021,ACTIVE,YES,12/7/2022,India,Himachal Pradesh,1006.6,15,PC/Laptop,12,Paytm,4
+laura26,12/24/2021,Telegram,Agender,432936,3/24/2021,INACTIVE,NO,11/18/2022,India,Himachal Pradesh,1271.3157894736842,19,PC/Laptop,3,NetBanking,2
+wolfederek,1/15/2005,Telegram,Genderqueer,432261,1/25/2022,ACTIVE,NO,11/25/2022,India,Arunachal Pradesh,1070.090909090909,22,FireTV,12,Paytm,4
+veronicarichardson,5/6/2015,Telegram,Male,432486,5/13/2021,INACTIVE,YES,12/2/2022,India,Arunachal Pradesh,1507.1739130434783,23,FireTV,1,Paytm,1
+carlosperez,2/26/1992,WhatsApp,Female,432176,3/29/2021,ACTIVE,NO,11/22/2022,India,Goa,1263.25,20,FireTV,3,NetBanking,2
+opena,11/29/2021,WhatsApp,Polygender,432420,7/12/2021,ACTIVE,NO,11/30/2022,India,Goa,1305.8333333333333,12,PC/Laptop,12,Paytm,4
+denise60,1/25/1992,WhatsApp,Male,432443,8/10/2021,INACTIVE,NO,12/24/2022,India,Goa,1171.6923076923076,13,PC/Laptop,12,Paytm,4
+leonardpayne,12/23/2021,WhatsApp,Male,432746,4/9/2021,ACTIVE,YES,11/8/2022,India,Goa,1399.3076923076924,13,PC/Laptop,6,NetBanking,3
+ashleymckinney,8/1/1998,WhatsApp,Male,432836,6/5/2021,INACTIVE,NO,11/17/2022,India,Goa,1602.6,20,PC/Laptop,12,Paytm,4
+annamorgan,3/26/2006,WhatsApp,Male,432929,6/3/2021,INACTIVE,NO,11/24/2022,India,Goa,2877.764705882353,17,PC/Laptop,6,NetBanking,3
+mbarker,11/4/1996,WhatsApp,Female,432159,2/9/2022,INACTIVE,YES,11/15/2022,India,Assam,1270.28,25,FireTV,12,Paytm,4
+linda02,11/11/2021,WhatsApp,Male,432200,2/22/2021,INACTIVE,NO,11/27/2022,India,Assam,1119.0,18,FireTV,6,NetBanking,3
+paigeklein,4/27/1992,WhatsApp,Male,432339,5/16/2022,INACTIVE,NO,12/1/2022,India,Assam,1679.3157894736842,19,FireTV,12,Paytm,4
+emmaramos,10/31/1999,WhatsApp,Genderfluid,432375,4/28/2022,INACTIVE,YES,12/26/2022,India,Assam,1383.1052631578948,19,Android TV,12,Paytm,4
+dolson,9/17/1999,WhatsApp,Male,432385,11/2/2022,INACTIVE,NO,11/19/2022,India,Assam,947.1333333333333,15,iPhone,1,Paytm,1
+rgarcia,9/17/1999,WhatsApp,Female,432391,7/27/2021,ACTIVE,YES,12/30/2022,India,Assam,1072.0625,16,Android Phone,12,Paytm,4
+doughertycarrie,9/6/1994,WhatsApp,Female,432415,2/28/2021,INACTIVE,NO,12/23/2022,India,Assam,849.75,20,Android Phone,1,Paytm,1
+ebarnes,8/30/1997,WhatsApp,Female,432561,7/2/2022,INACTIVE,YES,12/20/2022,India,Assam,1036.9444444444443,18,PC/Laptop,6,NetBanking,3
+samanthataylor,12/8/2021,WhatsApp,Female,432770,5/5/2022,INACTIVE,YES,12/31/2022,India,Assam,862.3809523809524,21,Android Phone,3,NetBanking,2
+carriemorgan,4/13/1992,WhatsApp,Male,432872,1/15/2021,ACTIVE,YES,11/28/2022,India,Assam,745.5714285714286,14,Android Phone,1,Paytm,1
+patriciadorsey,8/10/1989,WhatsApp,Female,433085,5/2/2022,ACTIVE,YES,12/6/2022,India,Assam,1468.1176470588234,17,FireTV,3,NetBanking,2
+bennettaustin,8/3/2015,WhatsApp,Female,432488,6/20/2022,INACTIVE,YES,11/29/2022,India,Bihar,2046.1,10,Android Phone,12,Paytm,4
+victorialandry,3/14/1997,WhatsApp,Male,432562,10/25/2021,INACTIVE,NO,12/24/2022,India,Bihar,990.65,20,PC/Laptop,3,NetBanking,2
+weaversara,10/24/1997,WhatsApp,Male,432578,6/21/2022,ACTIVE,YES,12/20/2022,India,Bihar,1628.25,12,FireTV,12,Paytm,4
+kingnicholas,12/23/2021,WhatsApp,Female,432579,3/5/2021,INACTIVE,NO,11/18/2022,India,Bihar,1077.2222222222222,18,Android TV,12,Paytm,4
+melissa13,9/3/1992,WhatsApp,Female,432624,10/8/2022,INACTIVE,YES,11/10/2022,India,Bihar,585.125,16,FireTV,1,Paytm,1
+jeffery61,2/9/1991,WhatsApp,Female,432643,9/9/2021,ACTIVE,YES,11/19/2022,India,Bihar,1322.0,22,Android TV,12,Paytm,4
+sullivanricardo,12/9/2021,WhatsApp,Male,432645,8/16/2021,ACTIVE,NO,12/22/2022,India,Bihar,782.6363636363636,22,Apple TV,3,NetBanking,2
+kimmartin,12/24/2021,WhatsApp,Female,432741,10/21/2022,INACTIVE,YES,12/11/2022,India,Bihar,718.4375,16,PC/Laptop,6,NetBanking,3
+kathleen15,10/15/1998,WhatsApp,Male,432823,3/13/2022,INACTIVE,NO,12/31/2022,India,Bihar,1684.2105263157894,18,FireTV,12,Paytm,4
+becklindsey,11/26/2021,WhatsApp,Male,432842,10/9/2021,ACTIVE,YES,12/29/2022,India,Bihar,1526.4666666666667,15,FireTV,12,Paytm,4
+gchen,9/6/1992,WhatsApp,Female,432844,8/20/2021,ACTIVE,NO,12/15/2022,India,Bihar,1006.4375,16,PC/Laptop,6,NetBanking,3
+kellywilliams,6/9/1989,WhatsApp,Male,433062,1/21/2022,INACTIVE,NO,11/19/2022,India,Bihar,993.1,20,PC/Laptop,12,Paytm,4
+jjones,10/27/1993,WhatsApp,Male,433105,6/22/2021,INACTIVE,YES,12/1/2022,India,Bihar,1215.4736842105262,18,FireTV,6,NetBanking,3
+zunigaashley,1/4/1993,WhatsApp,Male,433149,1/18/2022,INACTIVE,NO,11/22/2022,India,Bihar,1489.8333333333333,30,FireTV,6,NetBanking,3
+cfernandez,3/1/1986,WhatsApp,Male,432185,6/24/2021,INACTIVE,YES,12/29/2022,India,Kerala,1195.8333333333333,18,iPad,12,Paytm,4
+barrettwilliam,7/8/2001,WhatsApp,Female,432221,12/13/2021,ACTIVE,NO,12/16/2022,India,Kerala,1001.4285714285714,14,PC/Laptop,12,Paytm,4
+jeffreylewis,3/1/2005,WhatsApp,Female,432249,5/23/2021,INACTIVE,NO,12/1/2022,India,Kerala,1203.4705882352941,17,FireTV,12,Paytm,4
+randall60,8/13/2015,WhatsApp,Male,432499,11/25/2021,ACTIVE,YES,12/28/2022,India,Kerala,1215.7333333333333,15,PC/Laptop,12,Paytm,4
+jameslopez,7/25/2010,WhatsApp,Male,432531,12/25/2021,ACTIVE,YES,12/23/2022,India,Kerala,2545.285714285714,14,PC/Laptop,12,Paytm,4
+julianwilliams,1/25/1997,WhatsApp,Male,432574,8/5/2021,INACTIVE,YES,12/24/2022,India,Kerala,1179.45,20,PC/Laptop,3,NetBanking,2
+adam76,10/8/1991,WhatsApp,Female,432653,8/23/2022,ACTIVE,NO,12/25/2022,India,Kerala,1230.4375,16,Android TV,12,Paytm,4
+uknapp,10/6/1992,WhatsApp,Male,432846,4/21/2021,INACTIVE,NO,11/28/2022,India,Kerala,1510.764705882353,17,PC/Laptop,12,Paytm,4
+rogersxavier,8/5/1992,WhatsApp,Female,432895,7/22/2022,ACTIVE,YES,12/19/2022,India,Kerala,757.6428571428571,14,FireTV,12,Paytm,4
+cjordan,3/21/2006,WhatsApp,Genderfluid,432956,2/4/2021,INACTIVE,YES,11/15/2022,India,Kerala,1526.4666666666667,15,FireTV,12,Paytm,4
+richardsrandy,7/14/1989,WhatsApp,Male,433049,4/20/2022,INACTIVE,YES,11/24/2022,India,Kerala,1438.2,15,FireTV,12,Paytm,4
+misty52,5/3/1986,WhatsApp,Male,432191,2/18/2022,INACTIVE,YES,11/22/2022,India,Odisha,1063.55,20,PC/Laptop,1,Paytm,1
+rivascody,2/27/2000,WhatsApp,Female,432210,1/10/2021,INACTIVE,NO,12/24/2022,India,Odisha,1023.2105263157895,19,Android Phone,3,NetBanking,2
+kelsey73,11/11/2021,WhatsApp,Female,432216,8/31/2022,INACTIVE,YES,12/3/2022,India,Odisha,1053.7,20,FireTV,12,Paytm,4
+gloversheila,10/29/2005,WhatsApp,Female,432306,8/25/2021,ACTIVE,NO,11/22/2022,India,Odisha,864.4285714285714,21,FireTV,3,NetBanking,2
+renee21,1/31/1992,WhatsApp,Agender,432446,8/12/2021,ACTIVE,NO,12/28/2022,India,Odisha,883.2142857142857,14,PC/Laptop,12,Paytm,4
+deanmorris,7/1/1992,WhatsApp,Female,432604,4/12/2022,INACTIVE,YES,12/23/2022,India,Odisha,1117.5882352941176,17,PC/Laptop,3,NetBanking,2
+dennispotts,9/2/1992,WhatsApp,Female,432608,6/20/2021,INACTIVE,NO,12/26/2022,India,Odisha,1479.0,18,FireTV,3,NetBanking,2
+brucemartinez,7/2/1992,WhatsApp,Male,432662,7/29/2021,ACTIVE,NO,11/30/2022,India,Odisha,868.8636363636364,22,FireTV,12,Paytm,4
+samantha97,9/9/2002,WhatsApp,Female,432774,4/1/2022,ACTIVE,YES,11/25/2022,India,Odisha,1473.304347826087,23,PC/Laptop,3,NetBanking,2
+andrewpeterson,4/2/1989,WhatsApp,Male,433070,5/21/2021,INACTIVE,NO,12/8/2022,India,Odisha,1420.0,16,Apple TV,12,Paytm,4
+jwallace,11/3/1992,WhatsApp,Female,432373,10/24/2022,ACTIVE,NO,11/26/2022,India,Punjab,1031.75,16,FireTV,6,NetBanking,3
+howard24,8/31/1992,WhatsApp,Bigender,432918,4/2/2021,ACTIVE,YES,12/24/2022,India,Punjab,1258.0555555555557,18,FireTV,12,Paytm,4
+scottshields,11/23/2021,WhatsApp,Male,432184,2/26/2022,ACTIVE,NO,12/20/2022,India,Sikkim,1505.7368421052631,19,iPhone,6,NetBanking,3
+adamjohnson,7/16/1992,WhatsApp,Genderqueer,432361,8/16/2021,INACTIVE,YES,12/15/2022,India,Sikkim,1815.4814814814815,26,PC/Laptop,12,Paytm,4
+carroyo,7/21/1996,WhatsApp,Male,432165,10/22/2021,ACTIVE,YES,12/26/2022,India,Gujarat,1395.1538461538462,13,Apple TV,12,Paytm,4
+derek81,1/1/2001,WhatsApp,Male,432241,6/16/2022,ACTIVE,NO,12/5/2022,India,Gujarat,725.0,16,PC/Laptop,3,NetBanking,2
+kaylagarcia,4/9/2005,WhatsApp,Female,432305,4/19/2021,INACTIVE,YES,11/25/2022,India,Gujarat,1542.4615384615386,13,Android Phone,12,Paytm,4
+shannon62,12/21/2021,WhatsApp,Female,432315,11/19/2022,INACTIVE,YES,11/28/2022,India,Gujarat,1924.6,10,Android Phone,6,NetBanking,3
+mariawhite,6/1/1992,WhatsApp,Male,432350,11/13/2022,ACTIVE,NO,11/29/2022,India,Gujarat,1237.909090909091,22,FireTV,12,Paytm,4
+john12,12/22/2021,WhatsApp,Male,432567,3/26/2022,INACTIVE,YES,12/10/2022,India,Gujarat,1790.6666666666667,12,PC/Laptop,12,Paytm,4
+brittanywilliams,6/17/2002,WhatsApp,Male,432748,3/14/2021,ACTIVE,NO,12/29/2022,India,Gujarat,796.0555555555555,18,iPad,12,Paytm,4
+pmiller,2/4/1998,WhatsApp,Male,432818,2/13/2021,INACTIVE,NO,12/23/2022,India,Gujarat,1221.6666666666667,21,PC/Laptop,12,Paytm,4
+erinsnyder,12/12/2021,WhatsApp,Male,433012,2/15/2022,ACTIVE,YES,11/22/2022,India,Gujarat,828.2631578947369,19,PC/Laptop,3,NetBanking,2
+wilcoxgail,8/20/1989,WhatsApp,Male,433013,2/11/2022,INACTIVE,YES,11/17/2022,India,Gujarat,1667.4761904761904,21,PC/Laptop,12,Paytm,4
+williamsdavid,12/17/2021,WhatsApp,Male,433109,6/20/2022,INACTIVE,NO,11/24/2022,India,Gujarat,1319.4444444444443,18,FireTV,12,Paytm,4
+tricia58,10/4/1986,WhatsApp,Female,432188,6/18/2021,INACTIVE,NO,11/22/2022,India,Haryana,1922.1052631578948,19,FireTV,12,Paytm,4
+tina31,6/28/1992,WhatsApp,Female,432342,1/10/2021,ACTIVE,NO,12/29/2022,India,Haryana,880.5,10,FireTV,12,Paytm,4
+ipotter,3/17/2015,WhatsApp,Male,432490,8/19/2022,ACTIVE,NO,12/4/2022,India,Haryana,1358.3125,16,FireTV,3,NetBanking,2
+juarezmark,9/29/1992,WhatsApp,Male,432615,4/1/2022,INACTIVE,YES,11/28/2022,India,Haryana,896.8181818181819,11,PC/Laptop,1,Paytm,1
+amy46,10/22/1993,WhatsApp,Male,432688,12/3/2021,ACTIVE,NO,12/8/2022,India,Haryana,1851.8333333333333,18,FireTV,6,NetBanking,3
+jamesgraves,8/3/1992,WhatsApp,Female,432703,9/22/2022,INACTIVE,NO,11/26/2022,India,Haryana,1378.909090909091,22,PC/Laptop,12,Paytm,4
+danielle77,8/24/1992,WhatsApp,Male,432889,1/3/2021,INACTIVE,NO,11/15/2022,India,Haryana,941.75,16,FireTV,3,NetBanking,2
+shammond,5/23/2001,WhatsApp,Female,432226,2/21/2022,INACTIVE,YES,12/26/2022,India,Manipur,1676.1052631578948,19,FireTV,1,Paytm,1
+thomasking,5/2/2010,WhatsApp,Female,432546,10/9/2021,INACTIVE,YES,12/30/2022,India,Manipur,1384.3529411764705,17,PC/Laptop,3,NetBanking,2
+cody12,1/16/1997,WhatsApp,Female,432565,10/18/2021,INACTIVE,NO,11/19/2022,India,Manipur,1229.5333333333333,15,Apple TV,6,NetBanking,3
+carolynlittle,11/11/2021,WhatsApp,Female,432618,3/5/2021,INACTIVE,YES,12/6/2022,India,Manipur,784.8888888888889,18,FireTV,12,Paytm,4
+brent43,10/22/1992,WhatsApp,Female,432654,2/24/2022,ACTIVE,YES,11/10/2022,India,Manipur,2139.5384615384614,13,FireTV,12,Paytm,4
+marcus94,11/3/1993,WhatsApp,Male,432692,4/27/2021,INACTIVE,NO,11/17/2022,India,Manipur,1444.3333333333333,24,FireTV,12,Paytm,4
+sarah01,6/11/2002,WhatsApp,Non-binary,432778,5/25/2021,ACTIVE,YES,12/29/2022,India,Manipur,1572.5185185185185,26,FireTV,3,NetBanking,2
+keith69,12/1/2021,WhatsApp,Female,432875,5/6/2021,ACTIVE,YES,11/27/2022,India,Manipur,1577.6,15,PC/Laptop,12,Paytm,4
+kimberly89,10/12/1989,WhatsApp,Female,432993,10/1/2021,INACTIVE,YES,12/14/2022,India,Manipur,1554.5,18,PC/Laptop,3,NetBanking,2
+smithjordan,11/15/2021,WhatsApp,Bigender,433015,4/10/2022,ACTIVE,YES,11/19/2022,India,Manipur,1794.5,16,PC/Laptop,6,NetBanking,3
+mkoch,5/19/2001,WhatsApp,Male,432244,10/20/2021,INACTIVE,NO,11/22/2022,India,Mizoram,1801.3333333333333,18,PC/Laptop,6,NetBanking,3
+buchananamy,1/28/1992,WhatsApp,Male,432309,11/1/2022,ACTIVE,YES,12/13/2022,India,Mizoram,1981.75,12,FireTV,3,NetBanking,2
+xtorres,9/28/1992,WhatsApp,Male,432336,5/30/2021,ACTIVE,NO,11/22/2022,India,Mizoram,1574.3333333333333,18,FireTV,1,Paytm,1
+brittany70,11/15/2021,WhatsApp,Female,432402,3/27/2021,INACTIVE,YES,12/20/2022,India,Mizoram,1142.3333333333333,36,Android TV,3,NetBanking,2
+pamela94,3/28/2015,WhatsApp,Female,432456,2/23/2022,INACTIVE,YES,12/15/2022,India,Mizoram,1932.7894736842106,19,FireTV,12,Paytm,4
+jenna88,10/8/2002,WhatsApp,Female,432744,1/14/2022,INACTIVE,YES,11/28/2022,India,Mizoram,1361.5,22,FireTV,3,NetBanking,2
+gchurch,6/10/2002,WhatsApp,Female,432747,2/8/2022,ACTIVE,YES,11/18/2022,India,Mizoram,1658.0588235294117,17,FireTV,6,NetBanking,3
+arthurwalton,12/9/2021,WhatsApp,Male,432759,1/8/2022,ACTIVE,NO,12/12/2022,India,Mizoram,1317.9444444444443,18,PC/Laptop,12,Paytm,4
+sharpryan,8/20/1998,WhatsApp,Male,432839,5/31/2021,ACTIVE,NO,12/30/2022,India,Mizoram,1103.625,24,FireTV,3,NetBanking,2
+maldonadobrandy,4/16/1989,WhatsApp,Female,433055,3/14/2022,INACTIVE,YES,11/19/2022,India,Mizoram,1219.4,20,PC/Laptop,12,Paytm,4
+rachelbradford,1/19/1989,WhatsApp,Male,433063,9/27/2021,INACTIVE,YES,12/12/2022,India,Mizoram,978.7894736842105,19,iPad,12,Paytm,4
+ncherry,5/1/2000,WhatsApp,Male,432195,8/30/2021,INACTIVE,NO,11/15/2022,India,Tripura,1456.409090909091,22,FireTV,3,NetBanking,2
+anthonyramos,6/17/1992,WhatsApp,Male,432369,7/10/2022,INACTIVE,NO,12/5/2022,India,Tripura,1258.8695652173913,23,Android TV,6,NetBanking,3
+mary39,7/4/2002,WhatsApp,Female,432730,10/21/2021,INACTIVE,NO,12/8/2022,India,Tripura,1815.9375,16,FireTV,12,Paytm,4
+elizabeth73,1/21/2002,WhatsApp,Genderfluid,432787,10/8/2021,ACTIVE,NO,11/10/2022,India,Tripura,1468.7777777777778,27,PC/Laptop,12,Paytm,4
+hardinjennifer,4/28/2002,WhatsApp,Male,432797,3/9/2021,ACTIVE,YES,12/25/2022,India,Tripura,1207.05,20,FireTV,6,NetBanking,3
+kevin83,7/8/2002,WhatsApp,Male,432801,9/25/2021,ACTIVE,NO,12/18/2022,India,Tripura,1575.0,14,FireTV,12,Paytm,4
+vasquezphilip,4/2/2006,WhatsApp,Non-binary,432954,11/4/2021,ACTIVE,NO,12/16/2022,India,Tripura,1243.6521739130435,23,FireTV,3,NetBanking,2
+alison69,9/22/1989,WhatsApp,Female,433073,5/26/2022,INACTIVE,YES,11/17/2022,India,Tripura,1884.0,10,Android Phone,6,NetBanking,3
+ewatkins,7/4/1989,WhatsApp,Female,433083,11/6/2022,INACTIVE,NO,11/21/2022,India,Tripura,829.6315789473684,19,PC/Laptop,12,Paytm,4
+marykelley,10/11/1993,WhatsApp,Male,433125,11/18/2021,ACTIVE,NO,12/7/2022,India,Tripura,2497.75,16,PC/Laptop,6,NetBanking,3
+nmanning,10/16/2000,WhatsApp,Male,432204,9/10/2022,INACTIVE,YES,11/29/2022,India,Nagaland,1496.6666666666667,18,PC/Laptop,3,NetBanking,2
+jacobmays,7/18/2005,WhatsApp,Male,432273,2/13/2021,INACTIVE,NO,12/14/2022,India,Nagaland,1057.2142857142858,14,PC/Laptop,3,NetBanking,2
+mcbridecharles,12/12/2021,WhatsApp,Male,432472,10/25/2022,INACTIVE,NO,12/10/2022,India,Nagaland,994.7826086956521,23,FireTV,12,Paytm,4
+haleymichael,2/13/2015,WhatsApp,Male,432484,8/27/2022,INACTIVE,NO,12/28/2022,India,Nagaland,1271.2727272727273,22,PC/Laptop,12,Paytm,4
+narnold,12/13/2021,WhatsApp,Male,432601,5/17/2022,ACTIVE,YES,11/22/2022,India,Nagaland,1852.8947368421052,19,Android Phone,12,Paytm,4
+lauracarter,7/6/1993,WhatsApp,Male,432669,9/24/2021,INACTIVE,NO,12/21/2022,India,Nagaland,563.2777777777778,18,FireTV,6,NetBanking,3
+tdalton,12/6/2021,WhatsApp,Female,432788,2/9/2022,INACTIVE,YES,12/4/2022,India,Nagaland,1386.142857142857,7,FireTV,12,Paytm,4
+jenniferstafford,5/15/2006,WhatsApp,Genderfluid,432961,6/21/2021,INACTIVE,YES,11/27/2022,India,Nagaland,1203.5,20,FireTV,3,NetBanking,2
+kcarson,11/2/1989,WhatsApp,Female,433064,3/14/2021,ACTIVE,YES,12/31/2022,India,Nagaland,936.4736842105264,19,FireTV,12,Paytm,4
+mckayrobert,3/30/1992,WhatsApp,Male,433088,4/21/2021,ACTIVE,NO,12/20/2022,India,Nagaland,1634.1363636363637,22,PC/Laptop,12,Paytm,4
+robrien,10/6/1993,WhatsApp,Female,433150,9/26/2022,ACTIVE,YES,11/26/2022,India,Nagaland,1310.4444444444443,27,FireTV,3,NetBanking,2
+craigadam,8/2/2005,WhatsApp,Female,432252,7/18/2022,ACTIVE,NO,12/17/2022,India,Jharkhand,1440.0555555555557,18,Android TV,12,Paytm,4
+amandamendez,7/8/1992,WhatsApp,Female,432345,7/31/2021,INACTIVE,NO,12/16/2022,India,Jharkhand,1567.0,19,FireTV,12,Paytm,4
+daniel05,5/28/1992,WhatsApp,Female,432408,11/23/2022,ACTIVE,YES,11/21/2022,India,Jharkhand,548.5,14,iPad,12,Paytm,4
+laurashort,4/8/2015,WhatsApp,Female,432522,1/1/2022,INACTIVE,YES,12/11/2022,India,Jharkhand,1047.1875,16,Android Phone,3,NetBanking,2
+thomasmyers,6/25/1992,WhatsApp,Female,432595,2/10/2021,ACTIVE,NO,12/26/2022,India,Jharkhand,1654.9444444444443,18,FireTV,6,NetBanking,3
+nfreeman,8/29/2005,WhatsApp,Female,432266,10/20/2022,INACTIVE,YES,11/20/2022,India,Karnataka,1392.75,20,Android TV,6,NetBanking,3
+robin41,1/13/1992,WhatsApp,Male,432347,5/24/2022,ACTIVE,YES,11/11/2022,India,Karnataka,1220.1,20,FireTV,3,NetBanking,2
+clarkashley,3/6/1994,WhatsApp,Polygender,432421,12/15/2021,ACTIVE,NO,12/8/2022,India,Karnataka,1166.3333333333333,18,Apple TV,3,NetBanking,2
+cindyhughes,2/10/2015,WhatsApp,Female,432459,3/1/2021,ACTIVE,YES,12/12/2022,India,Karnataka,1098.090909090909,22,FireTV,3,NetBanking,2
+kathleengreen,2/1/2015,WhatsApp,Male,432479,3/8/2022,INACTIVE,NO,12/18/2022,India,Karnataka,1401.625,16,PC/Laptop,3,NetBanking,2
+harrisronald,9/26/2015,WhatsApp,Female,432489,10/15/2022,INACTIVE,YES,12/21/2022,India,Karnataka,1263.8235294117646,17,PC/Laptop,3,NetBanking,2
+francowilliam,8/24/2015,WhatsApp,Female,432501,1/31/2022,ACTIVE,YES,11/16/2022,India,Karnataka,1330.0526315789473,19,FireTV,12,Paytm,4
+jenniferbooth,8/8/2015,WhatsApp,Female,432502,4/10/2021,ACTIVE,YES,11/18/2022,India,Karnataka,657.9375,16,PC/Laptop,3,NetBanking,2
+vegaricky,6/24/1997,WhatsApp,Female,432555,7/14/2021,ACTIVE,YES,12/1/2022,India,Karnataka,1215.4117647058824,17,FireTV,3,NetBanking,2
+joshuagriffin,11/29/2021,WhatsApp,Male,432610,7/28/2022,INACTIVE,NO,11/23/2022,India,Karnataka,1844.9545454545455,22,Android Phone,12,Paytm,4
+benjamin40,8/13/1991,WhatsApp,Male,432651,10/19/2022,INACTIVE,NO,12/28/2022,India,Karnataka,1729.076923076923,13,PC/Laptop,1,Paytm,1
+stephen68,2/13/2002,WhatsApp,Male,432758,1/25/2022,ACTIVE,NO,12/23/2022,India,Karnataka,1254.7692307692307,26,PC/Laptop,12,Paytm,4
+ljuarez,8/31/2002,WhatsApp,Female,432792,3/15/2021,ACTIVE,NO,12/15/2022,India,Karnataka,2018.15,20,FireTV,3,NetBanking,2
+hjackson,1/6/2006,WhatsApp,Male,432938,6/15/2022,ACTIVE,YES,11/22/2022,India,Karnataka,1709.0555555555557,18,FireTV,12,Paytm,4
+smithjacob,1/6/1989,WhatsApp,Male,433067,9/17/2022,INACTIVE,NO,12/22/2022,India,Karnataka,1349.5,24,PC/Laptop,12,Paytm,4
+maldonadodonald,4/1/2005,WhatsApp,Male,432156,3/20/2022,ACTIVE,NO,11/8/2022,India,Meghalaya,1485.7142857142858,21,PC/Laptop,12,Paytm,4
+qcollins,6/15/2001,WhatsApp,Male,432243,10/5/2022,ACTIVE,NO,11/9/2022,India,Meghalaya,1141.5,16,PC/Laptop,1,Paytm,1
+millersamantha,10/23/2005,WhatsApp,Female,432277,7/2/2022,ACTIVE,NO,12/1/2022,India,Meghalaya,1251.111111111111,18,FireTV,1,Paytm,1
+aaron02,12/26/2021,WhatsApp,Male,432390,11/15/2022,INACTIVE,YES,12/15/2022,India,Meghalaya,773.8,15,Android Phone,3,NetBanking,2
+weaverrachel,6/18/1992,WhatsApp,Male,432912,5/18/2022,INACTIVE,YES,11/10/2022,India,Meghalaya,1179.4666666666667,15,Android Phone,12,Paytm,4
+david15,5/31/2006,WhatsApp,Male,432960,6/16/2022,INACTIVE,NO,12/15/2022,India,Meghalaya,1092.0384615384614,25,FireTV,12,Paytm,4
+garciakelsey,1/22/1993,WhatsApp,Female,433120,9/6/2021,INACTIVE,NO,11/14/2022,India,Meghalaya,1254.4285714285713,14,FireTV,3,NetBanking,2
+petersonallison,2/12/2005,WhatsApp,Female,432283,9/13/2021,INACTIVE,NO,11/20/2022,India,Rajasthan,1536.56,25,PC/Laptop,3,NetBanking,2
+olee,9/9/1992,WhatsApp,Female,432325,6/10/2022,INACTIVE,YES,11/28/2022,India,Rajasthan,953.6,15,iPad,6,NetBanking,3
+jacksonalexander,8/4/1993,WhatsApp,Male,432672,1/21/2021,ACTIVE,NO,11/16/2022,India,Rajasthan,1547.142857142857,21,FireTV,6,NetBanking,3
+aguirrehoward,6/17/1993,WhatsApp,Male,432694,1/12/2022,INACTIVE,NO,12/23/2022,India,Rajasthan,1457.65,20,FireTV,12,Paytm,4
+sharonfisher,4/12/1992,WhatsApp,Female,432813,1/9/2021,INACTIVE,YES,12/16/2022,India,Rajasthan,1344.4545454545455,22,PC/Laptop,12,Paytm,4
+kevinwoods,2/2/1992,WhatsApp,Male,432859,10/27/2022,INACTIVE,NO,11/8/2022,India,Rajasthan,1325.3076923076924,13,FireTV,12,Paytm,4
+kirkwarren,3/10/1992,WhatsApp,Male,432893,1/20/2022,INACTIVE,YES,11/14/2022,India,Rajasthan,1331.7058823529412,17,PC/Laptop,6,NetBanking,3
+erica71,12/25/2021,WhatsApp,Male,433111,5/20/2021,ACTIVE,NO,12/27/2022,India,Rajasthan,1207.1904761904761,21,PC/Laptop,12,Paytm,4
+vmartinez,4/4/2001,WhatsApp,Male,432232,5/31/2021,INACTIVE,NO,12/18/2022,India,Telangana,908.125,32,FireTV,6,NetBanking,3
+nlee,9/4/2001,WhatsApp,Female,432246,4/30/2022,INACTIVE,YES,11/9/2022,India,Telangana,983.78125,32,PC/Laptop,3,NetBanking,2
+pamelaneal,8/30/2005,WhatsApp,Male,432275,7/24/2021,INACTIVE,NO,12/29/2022,India,Telangana,2054.4615384615386,13,PC/Laptop,12,Paytm,4
+stephanie05,9/25/1992,WhatsApp,Female,432607,5/31/2022,INACTIVE,NO,11/13/2022,India,Telangana,1566.090909090909,22,FireTV,12,Paytm,4
+walldaniel,11/26/2021,WhatsApp,Male,432629,5/13/2022,INACTIVE,YES,11/19/2022,India,Telangana,1084.7894736842106,19,FireTV,12,Paytm,4
+morganbender,5/6/2002,WhatsApp,Genderqueer,432745,11/10/2021,INACTIVE,NO,12/4/2022,India,Telangana,818.7272727272727,11,PC/Laptop,12,Paytm,4
+meghan76,2/20/2006,WhatsApp,Female,432957,11/26/2022,ACTIVE,NO,11/30/2022,India,Telangana,1661.6923076923076,13,Android TV,12,Paytm,4
+kenneth12,6/27/2006,WhatsApp,Male,432988,3/11/2022,ACTIVE,NO,12/25/2022,India,Telangana,1590.8947368421052,19,Android TV,12,Paytm,4
+rogersjohn,12/9/2021,WhatsApp,Female,433112,3/11/2022,ACTIVE,YES,11/21/2022,India,Telangana,1508.0625,16,PC/Laptop,6,NetBanking,3
+greenlindsay,11/30/2021,WhatsApp,Male,433123,12/20/2021,INACTIVE,NO,12/28/2022,India,Telangana,1621.4166666666667,24,PC/Laptop,3,NetBanking,2
+wolfeshannon,3/8/1993,WhatsApp,Male,433136,5/17/2022,ACTIVE,YES,11/21/2022,India,Telangana,1002.8636363636364,22,FireTV,12,Paytm,4
+scisneros,11/21/2021,WhatsApp,Female,432523,3/12/2022,ACTIVE,YES,12/21/2022,India,Tamil Nadu,882.6666666666666,15,Apple TV,3,NetBanking,2
+ajordan,9/3/1993,WhatsApp,Male,432677,2/18/2021,ACTIVE,YES,11/11/2022,India,Tamil Nadu,1340.4736842105262,19,PC/Laptop,12,Paytm,4
+washingtonrichard,8/10/2002,WhatsApp,Female,432716,4/21/2022,ACTIVE,NO,12/11/2022,India,Tamil Nadu,2260.785714285714,14,Android Phone,6,NetBanking,3
+iwright,6/5/2002,WhatsApp,Male,432740,11/10/2021,ACTIVE,YES,11/9/2022,India,Tamil Nadu,1800.5333333333333,15,PC/Laptop,12,Paytm,4
+carl99,2/23/2002,WhatsApp,Female,432763,5/7/2021,ACTIVE,NO,11/24/2022,India,Tamil Nadu,1637.3703703703704,27,FireTV,12,Paytm,4
+hmiller,2/4/1992,WhatsApp,Non-binary,432909,4/3/2022,INACTIVE,NO,12/21/2022,India,Tamil Nadu,1395.388888888889,18,PC/Laptop,12,Paytm,4
+kristopher10,1/5/1989,WhatsApp,Polygender,433028,11/20/2021,INACTIVE,YES,12/8/2022,India,Tamil Nadu,1538.076923076923,13,PC/Laptop,3,NetBanking,2
+duranvanessa,4/16/1996,WhatsApp,Female,432158,5/11/2021,INACTIVE,YES,11/19/2022,India,Maharashtra,1094.111111111111,18,PC/Laptop,1,Paytm,1
+gdavis,9/11/1992,WhatsApp,Male,432367,3/11/2022,ACTIVE,NO,11/12/2022,India,Maharashtra,1954.6521739130435,23,PC/Laptop,3,NetBanking,2
+ramirezwesley,8/16/1992,WhatsApp,Polygender,432372,5/6/2021,INACTIVE,NO,11/12/2022,India,Maharashtra,1328.5652173913043,23,FireTV,3,NetBanking,2
+smithrobert,5/26/1999,WhatsApp,Female,432389,10/27/2022,INACTIVE,NO,12/18/2022,India,Maharashtra,1401.75,40,PC/Laptop,3,NetBanking,2
+jessebrown,2/21/1999,WhatsApp,Female,432399,2/27/2022,INACTIVE,YES,12/31/2022,India,Maharashtra,1226.090909090909,11,iPhone,3,NetBanking,2
+roy70,2/10/1992,WhatsApp,Male,432433,11/1/2021,INACTIVE,YES,11/27/2022,India,Maharashtra,1175.0,25,FireTV,3,NetBanking,2
+toddloretta,6/1/2010,WhatsApp,Male,432530,10/18/2022,INACTIVE,NO,12/5/2022,India,Maharashtra,1129.695652173913,23,FireTV,12,Paytm,4
+wsmith,10/9/2002,WhatsApp,Male,432750,11/10/2022,ACTIVE,YES,11/26/2022,India,Maharashtra,1207.2777777777778,18,PC/Laptop,12,Paytm,4
+ndean,4/29/2002,WhatsApp,Male,432766,4/24/2022,INACTIVE,YES,11/22/2022,India,Maharashtra,1123.45,20,PC/Laptop,12,Paytm,4
+stephengeorge,8/19/2000,WhatsApp,Female,432194,12/6/2021,INACTIVE,NO,12/8/2022,India,Uttarakhand,1293.4583333333333,24,FireTV,3,NetBanking,2
+garciadavid,2/6/2001,WhatsApp,Male,432220,3/22/2021,ACTIVE,NO,11/21/2022,India,Uttarakhand,2743.3333333333335,12,PC/Laptop,3,NetBanking,2
+ymanning,4/4/2005,WhatsApp,Male,432288,11/1/2021,INACTIVE,NO,11/16/2022,India,Uttarakhand,1156.4,20,PC/Laptop,3,NetBanking,2
+danielle14,9/30/2015,WhatsApp,Female,432485,1/10/2021,ACTIVE,YES,11/23/2022,India,Uttarakhand,1576.357142857143,14,FireTV,3,NetBanking,2
+alexandra00,8/5/2015,WhatsApp,Male,432521,9/17/2021,INACTIVE,NO,12/21/2022,India,Uttarakhand,1528.4761904761904,21,PC/Laptop,12,Paytm,4
+bfoster,1/2/1997,WhatsApp,Female,432575,6/27/2021,ACTIVE,YES,11/30/2022,India,Uttarakhand,1539.388888888889,17,PC/Laptop,1,Paytm,1
+rachel99,8/9/1992,WhatsApp,Male,432606,8/12/2021,ACTIVE,NO,11/16/2022,India,Uttarakhand,1217.375,16,FireTV,3,NetBanking,2
+michaeltaylor,12/16/2021,WhatsApp,Female,432612,6/29/2021,INACTIVE,YES,12/1/2022,India,Uttarakhand,1355.6363636363637,22,FireTV,3,NetBanking,2
+osbornecourtney,2/16/1992,WhatsApp,Female,432881,3/3/2021,ACTIVE,YES,11/19/2022,India,Uttarakhand,1549.5625,16,PC/Laptop,1,Paytm,1
+jasminecampos,5/12/1992,WhatsApp,Female,432917,3/20/2022,INACTIVE,NO,11/25/2022,India,Uttarakhand,1783.0,14,Android Phone,12,Paytm,4
+margaret15,1/27/1989,WhatsApp,Male,432996,7/15/2021,ACTIVE,YES,12/15/2022,India,Uttarakhand,1602.2083333333333,24,FireTV,12,Paytm,4
+wbrown,11/8/2021,WhatsApp,Female,433058,9/7/2021,ACTIVE,YES,12/23/2022,India,Uttarakhand,1327.6470588235295,17,PC/Laptop,1,Paytm,1
+brad11,8/21/1992,WhatsApp,Female,433094,10/31/2021,INACTIVE,NO,12/12/2022,India,Uttarakhand,1263.7666666666667,30,FireTV,3,NetBanking,2
+thomas74,6/16/2000,WhatsApp,Genderqueer,432205,7/20/2022,ACTIVE,YES,12/5/2022,India,West Bengal,1160.0,16,PC/Laptop,12,Paytm,4
+kristinharding,6/17/1992,WhatsApp,Female,432348,1/15/2021,ACTIVE,YES,12/10/2022,India,West Bengal,1657.0,22,PC/Laptop,12,Paytm,4
+rhoward,3/9/1994,WhatsApp,Male,432422,9/29/2021,INACTIVE,YES,11/27/2022,India,West Bengal,830.2105263157895,19,FireTV,12,Paytm,4
+smoore,9/1/2015,WhatsApp,Male,432516,8/1/2022,INACTIVE,NO,11/27/2022,India,West Bengal,1765.1904761904761,21,PC/Laptop,3,NetBanking,2
+kennethgriffin,4/2/2010,WhatsApp,Female,432525,3/25/2022,ACTIVE,YES,12/24/2022,India,West Bengal,1302.9375,16,FireTV,1,Paytm,1
+williamcoleman,11/7/2010,WhatsApp,Male,432539,6/23/2021,INACTIVE,YES,12/12/2022,India,West Bengal,817.9,20,PC/Laptop,3,NetBanking,2
+aliciastout,11/3/1997,WhatsApp,Male,432573,11/7/2021,INACTIVE,YES,12/19/2022,India,West Bengal,1654.4545454545455,22,FireTV,1,Paytm,1
+vkim,3/8/2002,WhatsApp,Female,432772,4/30/2021,ACTIVE,YES,12/6/2022,India,West Bengal,1279.7058823529412,17,FireTV,12,Paytm,4
+wmahoney,12/1/2021,WhatsApp,Male,432870,6/18/2021,ACTIVE,NO,11/10/2022,India,West Bengal,1759.1333333333334,15,PC/Laptop,1,Paytm,1
+morganroberts,12/13/2021,WhatsApp,Female,432974,6/12/2022,INACTIVE,YES,11/8/2022,India,West Bengal,635.0714285714286,14,FireTV,6,NetBanking,3
+larry92,12/2/2021,WhatsApp,Male,433038,6/16/2022,ACTIVE,YES,12/24/2022,India,West Bengal,1358.5294117647059,17,FireTV,3,NetBanking,2
+karenodom,1/28/1989,WhatsApp,Male,433081,1/14/2022,ACTIVE,YES,11/30/2022,India,West Bengal,781.1666666666666,12,iPad,6,NetBanking,3
+matthew95,4/30/1993,WhatsApp,Female,433106,3/15/2021,ACTIVE,NO,12/1/2022,India,West Bengal,883.4117647058823,17,FireTV,12,Paytm,4
+thomascrawford,9/26/1993,WhatsApp,Female,433133,6/1/2022,ACTIVE,YES,12/17/2022,India,West Bengal,1047.888888888889,18,Android TV,12,Paytm,4
+vangmelissa,7/31/1992,WhatsApp,Female,433152,4/1/2022,ACTIVE,YES,12/19/2022,India,West Bengal,895.1818181818181,11,PC/Laptop,6,NetBanking,3
+ivillanueva,8/22/2001,WhatsApp,Female,432238,8/21/2021,INACTIVE,YES,11/30/2022,India,Chhattisgarh,1616.1785714285713,28,FireTV,3,NetBanking,2
+fhester,5/20/2005,WhatsApp,Male,432254,5/2/2022,ACTIVE,YES,11/11/2022,India,Chhattisgarh,1994.4615384615386,13,FireTV,3,NetBanking,2
+morsebrandon,3/20/2005,WhatsApp,Male,432256,4/22/2021,ACTIVE,NO,12/2/2022,India,Chhattisgarh,1353.85,20,PC/Laptop,1,Paytm,1
+bailey08,3/10/2005,WhatsApp,Female,432274,6/19/2021,ACTIVE,NO,12/7/2022,India,Chhattisgarh,1958.857142857143,7,iPad,1,Paytm,1
+christiancarson,6/22/1994,WhatsApp,Female,432427,7/26/2022,ACTIVE,NO,12/19/2022,India,Chhattisgarh,1707.6153846153845,12,FireTV,1,Paytm,1
+weaverdavid,5/27/2015,WhatsApp,Female,432453,10/15/2021,INACTIVE,YES,12/20/2022,India,Chhattisgarh,1934.4615384615386,13,PC/Laptop,12,Paytm,4
+bsaunders,7/24/2002,WhatsApp,Female,432728,3/23/2022,ACTIVE,YES,12/22/2022,India,Chhattisgarh,741.8421052631579,19,PC/Laptop,12,Paytm,4
+chris03,7/28/2002,WhatsApp,Agender,432753,9/28/2021,INACTIVE,NO,11/14/2022,India,Chhattisgarh,1152.2222222222222,18,PC/Laptop,1,Paytm,1
+hartmelissa,5/17/2002,WhatsApp,Male,432757,4/1/2022,ACTIVE,YES,12/21/2022,India,Chhattisgarh,1941.4615384615386,13,PC/Laptop,12,Paytm,4
+khudson,1/27/1992,WhatsApp,Female,432804,10/29/2021,ACTIVE,YES,12/28/2022,India,Chhattisgarh,1420.7777777777778,18,FireTV,6,NetBanking,3
+qowens,8/19/1992,WhatsApp,Male,432899,4/13/2022,ACTIVE,YES,11/23/2022,India,Chhattisgarh,1483.8,24,FireTV,1,Paytm,1
+hodom,2/19/1992,WhatsApp,Male,433090,9/24/2021,ACTIVE,YES,11/22/2022,India,Chhattisgarh,1120.9285714285713,14,PC/Laptop,12,Paytm,4
+ftaylor,4/23/2000,WhatsApp,Male,432197,1/4/2022,ACTIVE,NO,11/28/2022,India,Uttar Pradesh,1821.35,20,FireTV,3,NetBanking,2
+thomasvargas,8/4/1992,WhatsApp,Male,432327,12/31/2021,INACTIVE,NO,12/31/2022,India,Uttar Pradesh,1107.357142857143,28,FireTV,12,Paytm,4
+anthony31,8/14/2015,WhatsApp,Male,432491,5/10/2022,ACTIVE,YES,12/12/2022,India,Uttar Pradesh,1235.1538461538462,13,FireTV,12,Paytm,4
+ashleylozano,6/23/1997,WhatsApp,Female,432564,5/19/2022,ACTIVE,YES,11/23/2022,India,Uttar Pradesh,1214.842105263158,18,Android Phone,12,Paytm,4
+williamalvarado,2/7/2002,WhatsApp,Genderqueer,432760,3/7/2022,INACTIVE,YES,12/3/2022,India,Uttar Pradesh,1051.7826086956522,23,PC/Laptop,12,Paytm,4
+angela19,6/9/1992,WhatsApp,Non-binary,432845,8/8/2022,ACTIVE,NO,11/30/2022,India,Uttar Pradesh,1389.5625,16,Android Phone,3,NetBanking,2
+kenneth03,6/19/1989,WhatsApp,Male,433032,1/29/2022,ACTIVE,NO,12/26/2022,India,Uttar Pradesh,1393.125,16,FireTV,12,Paytm,4
+nicholassanders,6/30/1996,WhatsApp,Female,432169,2/23/2021,INACTIVE,YES,12/26/2022,India,Andhra Pradesh,1458.2,15,Android TV,3,NetBanking,2
+jessica54,6/29/2000,WhatsApp,Male,432206,4/24/2022,ACTIVE,NO,11/10/2022,India,Andhra Pradesh,1480.0,14,FireTV,12,Paytm,4
+fgonzalez,9/2/1992,WhatsApp,Male,432352,1/13/2021,ACTIVE,YES,12/22/2022,India,Andhra Pradesh,1322.75,15,FireTV,3,NetBanking,2
+jacksonrobert,12/8/2021,WhatsApp,Female,432368,3/24/2021,INACTIVE,YES,12/3/2022,India,Andhra Pradesh,1791.6666666666667,18,FireTV,3,NetBanking,2
+brandy93,6/21/1992,WhatsApp,Male,432409,9/22/2022,ACTIVE,YES,12/22/2022,India,Andhra Pradesh,2093.681818181818,22,FireTV,1,Paytm,1
+kwilliams,9/8/2010,WhatsApp,Female,432526,8/3/2022,INACTIVE,NO,12/3/2022,India,Andhra Pradesh,1302.6571428571428,35,Android TV,1,Paytm,1
+xjones,7/6/2010,WhatsApp,Agender,432543,5/10/2021,INACTIVE,YES,12/5/2022,India,Andhra Pradesh,1528.25,16,PC/Laptop,3,NetBanking,2
+smurphy,4/7/1993,WhatsApp,Male,432671,6/23/2022,ACTIVE,YES,11/28/2022,India,Andhra Pradesh,1738.8260869565217,23,PC/Laptop,3,NetBanking,2
+georgejames,4/28/1992,WhatsApp,Male,432902,9/19/2021,INACTIVE,YES,12/18/2022,India,Andhra Pradesh,1416.7894736842106,19,Android TV,12,Paytm,4
+finleystephen,3/1/1992,WhatsApp,Male,432915,5/29/2021,INACTIVE,YES,12/27/2022,India,Andhra Pradesh,1420.1153846153845,26,FireTV,3,NetBanking,2
+michael97,8/20/2006,WhatsApp,Genderfluid,432927,8/10/2022,INACTIVE,YES,11/30/2022,India,Andhra Pradesh,1033.3333333333333,42,PC/Laptop,3,NetBanking,2
+mosskatelyn,8/27/2006,WhatsApp,Male,432973,9/1/2021,INACTIVE,YES,12/14/2022,India,Andhra Pradesh,1322.6,20,PC/Laptop,12,Paytm,4
+bauerrichard,7/8/1993,WhatsApp,Male,433134,11/26/2022,INACTIVE,YES,12/12/2022,India,Andhra Pradesh,1245.9545454545455,22,iPad,12,Paytm,4
+darrellthompson,9/26/1996,WhatsApp,Male,432157,3/5/2022,INACTIVE,NO,12/18/2022,India,Madhya Pradesh,1065.9565217391305,23,FireTV,12,Paytm,4
+erinalvarez,9/24/1986,WhatsApp,Male,432189,6/22/2022,INACTIVE,YES,12/8/2022,India,Madhya Pradesh,1043.5,24,FireTV,3,NetBanking,2
+stephanie94,12/29/2021,WhatsApp,Genderfluid,432400,6/20/2022,INACTIVE,NO,12/21/2022,India,Madhya Pradesh,872.875,24,PC/Laptop,6,NetBanking,3
+calebanderson,11/19/2021,WhatsApp,Male,432729,10/18/2021,INACTIVE,NO,12/27/2022,India,Madhya Pradesh,1537.0,19,FireTV,6,NetBanking,3
+stephenalvarado,9/20/2002,WhatsApp,Female,432796,3/21/2021,INACTIVE,YES,12/18/2022,India,Madhya Pradesh,1164.6,20,PC/Laptop,3,NetBanking,2
+nancyfrazier,5/7/2006,WhatsApp,Male,432950,7/12/2021,INACTIVE,YES,12/31/2022,India,Madhya Pradesh,2670.823529411765,17,FireTV,12,Paytm,4
+brittany70,5/8/2006,WhatsApp,Agender,432979,6/23/2022,ACTIVE,YES,12/15/2022,India,Madhya Pradesh,1142.3333333333333,36,Android TV,3,NetBanking,2
+davidsonmichelle,12/27/2021,WhatsApp,Male,433084,12/16/2021,ACTIVE,YES,12/18/2022,India,Madhya Pradesh,956.9285714285714,14,Android TV,3,NetBanking,2
+berrycarla,2/12/1993,WhatsApp,Female,433138,8/7/2021,INACTIVE,YES,12/19/2022,India,Madhya Pradesh,1521.7857142857142,14,FireTV,3,NetBanking,2
+bonniestafford,9/28/1993,WhatsApp,Female,433146,11/15/2022,INACTIVE,NO,11/17/2022,India,Madhya Pradesh,1423.4347826086957,23,PC/Laptop,1,Paytm,1
+gchavez,5/1/1992,WhatsApp,Agender,432172,1/22/2022,ACTIVE,NO,12/21/2022,India,Himachal Pradesh,2239.923076923077,13,iPad,3,NetBanking,2
+coryatkinson,5/4/2000,WhatsApp,Genderqueer,432203,3/31/2021,INACTIVE,NO,12/9/2022,India,Himachal Pradesh,946.4285714285714,21,FireTV,3,NetBanking,2
+elizabethcompton,4/12/2015,WhatsApp,Female,432460,9/13/2022,ACTIVE,YES,12/31/2022,India,Himachal Pradesh,1029.0526315789473,18,FireTV,6,NetBanking,3
+byrdmichael,8/26/2002,WhatsApp,Female,432761,9/12/2022,ACTIVE,NO,11/21/2022,India,Himachal Pradesh,1369.8666666666666,15,Android TV,1,Paytm,1
+fergusonnancy,9/10/2002,WhatsApp,Male,432782,4/29/2021,INACTIVE,YES,11/12/2022,India,Himachal Pradesh,1271.5,12,Android TV,12,Paytm,4
+elizabeth13,11/11/2021,WhatsApp,Female,432803,9/21/2022,INACTIVE,NO,11/21/2022,India,Himachal Pradesh,1117.6842105263158,19,PC/Laptop,3,NetBanking,2
+justinsherman,5/24/1992,WhatsApp,Male,432811,11/20/2022,ACTIVE,NO,11/30/2022,India,Himachal Pradesh,1108.6666666666667,15,FireTV,3,NetBanking,2
+ramirezcourtney,9/28/1998,WhatsApp,Male,432840,8/29/2021,ACTIVE,NO,12/1/2022,India,Himachal Pradesh,1223.3333333333333,12,Android TV,1,Paytm,1
+sullivanerika,7/19/1992,WhatsApp,Female,432329,8/3/2021,INACTIVE,YES,11/20/2022,India,Arunachal Pradesh,1249.4827586206898,29,FireTV,12,Paytm,4
+xsmith,12/17/2021,WhatsApp,Male,432428,5/23/2022,ACTIVE,NO,12/8/2022,India,Arunachal Pradesh,1602.764705882353,17,FireTV,12,Paytm,4
+morgan42,5/9/2015,WhatsApp,Male,432514,6/15/2022,ACTIVE,NO,12/24/2022,India,Arunachal Pradesh,1681.35,20,FireTV,6,NetBanking,3
+srussell,2/15/1997,WhatsApp,Female,432585,10/8/2021,ACTIVE,NO,11/19/2022,India,Arunachal Pradesh,1502.0,28,PC/Laptop,6,NetBanking,3
+brandili,12/14/2021,WhatsApp,Female,432660,3/22/2022,INACTIVE,NO,12/26/2022,India,Arunachal Pradesh,1266.3076923076924,13,PC/Laptop,12,Paytm,4
+davidlowe,4/1/1993,WhatsApp,Male,432693,9/25/2021,INACTIVE,YES,11/14/2022,India,Arunachal Pradesh,1199.0,18,FireTV,12,Paytm,4
+carrierivera,9/30/2002,WhatsApp,Female,432771,11/24/2021,INACTIVE,YES,12/3/2022,India,Arunachal Pradesh,1482.0,17,FireTV,12,Paytm,4
+ronniecoffey,8/29/2002,WhatsApp,Female,432802,1/21/2022,ACTIVE,NO,12/16/2022,India,Arunachal Pradesh,1518.0,30,PC/Laptop,12,Paytm,4
+kathleen63,5/28/1989,WhatsApp,Genderqueer,433001,7/24/2021,ACTIVE,NO,12/11/2022,India,Arunachal Pradesh,520.2,15,FireTV,12,Paytm,4
